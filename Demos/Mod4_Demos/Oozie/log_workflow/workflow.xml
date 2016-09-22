@@ -1,0 +1,37 @@
+<workflow-app xmlns="uri:oozie:workflow:0.2" name="LogWorkflow">
+  <start to="ScrubLog"/>
+  <action name="ScrubLog">
+    <pig>
+      <job-tracker>${jobTracker}</job-tracker>
+      <name-node>${nameNode}</name-node>
+      <script>${scrubLogPigScript}</script>
+      <param>InputFolder=${uploadedLogFolder}</param>
+      <param>OutputFolder=${scrubbedLogFolder}</param>
+    </pig>
+    <ok to="ProcessLog"/>
+    <error to="fail"/>
+  </action>
+  <action name='ProcessLog'>
+    <hive xmlns="uri:oozie:hive-action:0.2">
+      <job-tracker>${jobTracker}</job-tracker>
+      <name-node>${nameNode}</name-node>
+      <configuration>
+        <property>
+          <name>mapred.job.queue.name</name>
+          <value>default</value>
+        </property>
+      </configuration>
+      <script>${processLogHiveScript}</script>
+      <param>SCRUBBED_TABLE=${scrubbedTable}</param>
+      <param>SCRUBBED_FOLDER=${scrubbedLogFolder}</param>
+      <param>PROCESSED_TABLE=${processedTable}</param>
+      <param>PROCESSED_FOLDER=${processedLogFolder}</param>
+    </hive>
+    <ok to="end"/>
+    <error to="fail"/>
+  </action>
+  <kill name="fail">
+    <message>Workflow failed, error message[${wf:errorMessage(wf:lastErrorNode())}] </message>
+  </kill>
+  <end name="end"/>
+</workflow-app>

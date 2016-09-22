@@ -1,0 +1,954 @@
+﻿Level	Date and Time	Source	Event ID	Task Category
+Information	16/12/2015 14:14:52	Lfsvc	1	None	Geolocation positioning is enabled.
+Information	16/12/2015 14:08:52	Service Control Manager	7040	None	The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Information	16/12/2015 14:06:10	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	16/12/2015 14:04:52	Service Control Manager	7026	None	"The following boot-start or system-start driver(s) did not load: 
+dam"
+Information	16/12/2015 14:04:43	Microsoft-Windows-DHCPv6-Client	51046	Service State Event	DHCPv6 client service is started
+Information	16/12/2015 14:04:43	Microsoft-Windows-Dhcp-Client	50036	Service State Event	DHCPv4 client service is started
+Information	16/12/2015 14:04:43	Microsoft-Windows-Kernel-General	1	None	"The system time has changed to ‎2015‎-‎12‎-‎16T14:04:43.029000000Z from ‎2015‎-‎12‎-‎16T14:04:40.898516600Z.
+
+Change Reason: An application or system component changed the time."
+Information	16/12/2015 14:04:40	Microsoft-Windows-FilterManager	6	None	File System Filter 'storqosflt' (10.0, ‎2015‎-‎10‎-‎30T02:37:39.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	16/12/2015 14:04:40	Microsoft-Windows-FilterManager	6	None	File System Filter 'luafv' (10.0, ‎2015‎-‎10‎-‎30T02:34:43.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	16/12/2015 14:04:38	Microsoft-Windows-Wininit	14	None	Credential Guard (LsaIso.exe) configuration: 0x0, 0
+Information	16/12/2015 14:04:37	Microsoft-Windows-Ntfs	98	None	Volume \\?\Volume{6b1cc1df-0000-0000-0000-100000000000} (\Device\HarddiskVolume1) is healthy.  No action is needed.
+Information	16/12/2015 14:04:37	Microsoft-Windows-Hyper-V-Netvsc	11	(1003)	Miniport NIC 'Microsoft Hyper-V Network Adapter' restarted
+Information	16/12/2015 14:04:37	Microsoft-Windows-Hyper-V-Netvsc	3	(1002)	The miniport 'Microsoft Hyper-V Network Adapter' was successfully initialized
+Information	16/12/2015 14:04:37	Microsoft-Windows-Hyper-V-Netvsc	12	(1003)	Miniport NIC 'Microsoft Hyper-V Network Adapter' connected
+Information	16/12/2015 14:04:37	Microsoft-Windows-Hyper-V-Netvsc	13	(1003)	Miniport NIC 'Microsoft Hyper-V Network Adapter' disconnected
+Information	16/12/2015 14:04:37	Microsoft-Windows-Hyper-V-Netvsc	1	(1001)	The VM and host networking components successfully negotiated protocol version '6.1'
+Information	16/12/2015 14:04:37	Microsoft-Windows-Kernel-Processor-Power	55	(47)	"Processor 0 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 2295
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information	16/12/2015 14:04:37	Microsoft-Windows-FilterManager	6	None	File System Filter 'npsvctrig' (10.0, ‎2015‎-‎10‎-‎30T02:40:23.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	16/12/2015 14:04:37	Microsoft-Windows-FilterManager	6	None	File System Filter 'FileCrypt' (10.0, ‎2015‎-‎10‎-‎30T02:37:49.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	16/12/2015 14:04:37	Microsoft-Windows-Ntfs	98	None	Volume C: (\Device\HarddiskVolume2) is healthy.  No action is needed.
+Information	16/12/2015 14:04:36	Microsoft-Windows-FilterManager	6	None	File System Filter 'WdFilter' (10.0, ‎2015‎-‎10‎-‎30T02:34:35.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	16/12/2015 14:04:36	Microsoft-Windows-FilterManager	6	None	File System Filter 'Wof' (10.0, ‎2015‎-‎10‎-‎30T02:38:16.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	16/12/2015 14:04:36	Microsoft-Windows-FilterManager	6	None	File System Filter 'FileInfo' (10.0, ‎2015‎-‎10‎-‎30T02:37:17.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	16/12/2015 14:04:36	Microsoft-Windows-Kernel-Boot	32	None	The bootmgr spent 0 ms waiting for user input.
+Information	16/12/2015 14:04:36	Microsoft-Windows-Kernel-Boot	18	None	There are 0x1 boot options on this system.
+Information	16/12/2015 14:04:36	Microsoft-Windows-Kernel-Boot	25	None	The boot menu policy was 0x1.
+Information	16/12/2015 14:04:36	Microsoft-Windows-Kernel-Boot	27	None	The boot type was 0x0.
+Information	16/12/2015 14:04:36	Microsoft-Windows-Kernel-Boot	20	None	The last shutdown's success status was true. The last boot's success status was true.
+Information	16/12/2015 14:04:36	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2015‎-‎12‎-‎16T14:04:36.487162900Z.
+Information	16/12/2015 13:17:03	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2015‎-‎12‎-‎16T13:17:03.120074900Z.
+Information	16/12/2015 13:16:58	Microsoft-Windows-Kernel-Power	109	(103)	"The kernel power manager has initiated a shutdown transition.
+
+Shutdown Reason: Kernel API"
+Information	16/12/2015 13:16:58	Microsoft-Windows-Kernel-Power	109	(103)	"The kernel power manager has initiated a shutdown transition.
+
+Shutdown Reason: Kernel API"
+Information	16/12/2015 14:04:40	EventLog	6013	None	The system uptime is 4 seconds.
+Information	16/12/2015 14:04:40	EventLog	6005	None	The Event log service was started.
+Information	16/12/2015 14:04:40	EventLog	6009	None	Microsoft (R) Windows (R) 10.00. 10586  Multiprocessor Free.
+Information	16/12/2015 13:16:54	Microsoft-Windows-Dhcp-Client	50037	Service State Event	DHCPv4 client service is stopped. ShutDown Flag value is 1
+Information	16/12/2015 13:16:54	Microsoft-Windows-DHCPv6-Client	51047	Service State Event	DHCPv6 client service is stopped. ShutDown Flag value is 1
+Information	16/12/2015 13:16:54	EventLog	6006	None	The Event log service was stopped.
+Information	16/12/2015 13:16:51	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Error	16/12/2015 13:16:45	Microsoft-Windows-DistributedCOM	10010	None	The server {0002DF02-0000-0000-C000-000000000046} did not register with DCOM within the required timeout.
+Error	16/12/2015 13:16:44	Service Control Manager	7031	None	The User Data Access_25298 service terminated unexpectedly.  It has done this 1 time(s).  The following corrective action will be taken in 10000 milliseconds: Restart the service.
+Error	16/12/2015 13:16:44	Service Control Manager	7031	None	The User Data Storage_25298 service terminated unexpectedly.  It has done this 1 time(s).  The following corrective action will be taken in 10000 milliseconds: Restart the service.
+Error	16/12/2015 13:16:44	Service Control Manager	7031	None	The Contact Data_25298 service terminated unexpectedly.  It has done this 1 time(s).  The following corrective action will be taken in 10000 milliseconds: Restart the service.
+Error	16/12/2015 13:16:44	Service Control Manager	7031	None	The Sync Host_25298 service terminated unexpectedly.  It has done this 1 time(s).  The following corrective action will be taken in 10000 milliseconds: Restart the service.
+Error	16/12/2015 13:16:41	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{D63B10C5-BB46-4990-A94F-E40B9D520160}
+ and APPID 
+{9CA88EE3-ACB7-47C8-AFC4-AB702511C276}
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Information	16/12/2015 13:16:39	User32	1074	None	"The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-A5MB3PB) has initiated the power off of computer DESKTOP-A5MB3PB on behalf of user DESKTOP-A5MB3PB\Graeme for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+Information	16/12/2015 12:31:46	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: Candy Crush Soda Saga
+Information	16/12/2015 12:31:40	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: Candy Crush Soda Saga
+Information	16/12/2015 12:31:38	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\king.com.CandyCrushSodaSaga_kgqvnymyfvs32\king.com.CandyCrushSodaSaga_1.57.100.0_x86__kgqvnymyfvs32\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	16/12/2015 12:30:37	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: Windows Camera
+Information	16/12/2015 12:30:31	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: Windows Camera
+Information	16/12/2015 12:30:31	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: Messaging + Skype
+Information	16/12/2015 12:30:29	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.WindowsCamera_8wekyb3d8bbwe\Microsoft.WindowsCamera_2015.1211.10.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	16/12/2015 12:30:20	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.Messaging_8wekyb3d8bbwe\Microsoft.Messaging_2.12.11012.0_x86__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	16/12/2015 12:30:18	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: Messaging + Skype
+Information	16/12/2015 12:28:09	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	16/12/2015 12:28:09	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	16/12/2015 12:28:09	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	16/12/2015 12:26:22	Lfsvc	1	None	Geolocation positioning is enabled.
+Information	16/12/2015 12:22:56	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	16/12/2015 12:22:44	Service Control Manager	7026	None	"The following boot-start or system-start driver(s) did not load: 
+dam"
+Information	16/12/2015 12:22:42	Microsoft-Windows-DHCPv6-Client	51046	Service State Event	DHCPv6 client service is started
+Information	16/12/2015 12:22:42	Microsoft-Windows-Dhcp-Client	50036	Service State Event	DHCPv4 client service is started
+Information	16/12/2015 12:22:41	Microsoft-Windows-Kernel-General	1	None	"The system time has changed to ‎2015‎-‎12‎-‎16T12:22:41.991000000Z from ‎2015‎-‎12‎-‎16T12:22:41.155394800Z.
+
+Change Reason: An application or system component changed the time."
+Information	16/12/2015 12:22:40	Microsoft-Windows-FilterManager	6	None	File System Filter 'storqosflt' (10.0, ‎2015‎-‎10‎-‎30T02:37:39.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	16/12/2015 12:22:40	Microsoft-Windows-FilterManager	6	None	File System Filter 'luafv' (10.0, ‎2015‎-‎10‎-‎30T02:34:43.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	16/12/2015 12:22:39	Microsoft-Windows-Wininit	14	None	Credential Guard (LsaIso.exe) configuration: 0x0, 0
+Information	16/12/2015 12:22:38	Microsoft-Windows-Ntfs	98	None	Volume \\?\Volume{6b1cc1df-0000-0000-0000-100000000000} (\Device\HarddiskVolume1) is healthy.  No action is needed.
+Information	16/12/2015 12:22:38	Microsoft-Windows-Hyper-V-Netvsc	11	(1003)	Miniport NIC 'Microsoft Hyper-V Network Adapter' restarted
+Information	16/12/2015 12:22:38	Microsoft-Windows-Hyper-V-Netvsc	3	(1002)	The miniport 'Microsoft Hyper-V Network Adapter' was successfully initialized
+Information	16/12/2015 12:22:38	Microsoft-Windows-Hyper-V-Netvsc	12	(1003)	Miniport NIC 'Microsoft Hyper-V Network Adapter' connected
+Information	16/12/2015 12:22:38	Microsoft-Windows-Hyper-V-Netvsc	13	(1003)	Miniport NIC 'Microsoft Hyper-V Network Adapter' disconnected
+Information	16/12/2015 12:22:38	Microsoft-Windows-Hyper-V-Netvsc	1	(1001)	The VM and host networking components successfully negotiated protocol version '6.1'
+Information	16/12/2015 12:22:38	Microsoft-Windows-Kernel-Processor-Power	55	(47)	"Processor 0 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 2295
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information	16/12/2015 12:22:38	Microsoft-Windows-FilterManager	6	None	File System Filter 'npsvctrig' (10.0, ‎2015‎-‎10‎-‎30T02:40:23.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	16/12/2015 12:22:38	Microsoft-Windows-FilterManager	6	None	File System Filter 'FileCrypt' (10.0, ‎2015‎-‎10‎-‎30T02:37:49.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	16/12/2015 12:22:38	Microsoft-Windows-Ntfs	98	None	Volume C: (\Device\HarddiskVolume2) is healthy.  No action is needed.
+Information	16/12/2015 12:22:37	Microsoft-Windows-FilterManager	6	None	File System Filter 'WdFilter' (10.0, ‎2015‎-‎10‎-‎30T02:34:35.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	16/12/2015 12:22:37	Microsoft-Windows-FilterManager	6	None	File System Filter 'Wof' (10.0, ‎2015‎-‎10‎-‎30T02:38:16.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	16/12/2015 12:22:37	Microsoft-Windows-FilterManager	6	None	File System Filter 'FileInfo' (10.0, ‎2015‎-‎10‎-‎30T02:37:17.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	16/12/2015 12:22:37	Microsoft-Windows-Kernel-Boot	32	None	The bootmgr spent 0 ms waiting for user input.
+Information	16/12/2015 12:22:37	Microsoft-Windows-Kernel-Boot	18	None	There are 0x1 boot options on this system.
+Information	16/12/2015 12:22:37	Microsoft-Windows-Kernel-Boot	25	None	The boot menu policy was 0x1.
+Information	16/12/2015 12:22:37	Microsoft-Windows-Kernel-Boot	27	None	The boot type was 0x0.
+Information	16/12/2015 12:22:37	Microsoft-Windows-Kernel-Boot	20	None	The last shutdown's success status was true. The last boot's success status was true.
+Information	16/12/2015 12:22:37	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2015‎-‎12‎-‎16T12:22:37.486333200Z.
+Information	16/12/2015 10:35:19	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2015‎-‎12‎-‎16T10:35:19.183559300Z.
+Information	16/12/2015 10:35:15	Microsoft-Windows-Kernel-Power	109	(103)	"The kernel power manager has initiated a shutdown transition.
+
+Shutdown Reason: Kernel API"
+Information	16/12/2015 10:35:15	Microsoft-Windows-Kernel-Power	109	(103)	"The kernel power manager has initiated a shutdown transition.
+
+Shutdown Reason: Kernel API"
+Information	16/12/2015 12:22:40	EventLog	6013	None	The system uptime is 3 seconds.
+Information	16/12/2015 12:22:40	EventLog	6005	None	The Event log service was started.
+Information	16/12/2015 12:22:40	EventLog	6009	None	Microsoft (R) Windows (R) 10.00. 10586  Multiprocessor Free.
+Information	16/12/2015 10:35:11	Microsoft-Windows-Dhcp-Client	50037	Service State Event	DHCPv4 client service is stopped. ShutDown Flag value is 1
+Information	16/12/2015 10:35:11	Microsoft-Windows-DHCPv6-Client	51047	Service State Event	DHCPv6 client service is stopped. ShutDown Flag value is 1
+Information	16/12/2015 10:35:11	EventLog	6006	None	The Event log service was stopped.
+Information	16/12/2015 10:35:09	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Error	16/12/2015 10:35:03	Service Control Manager	7031	None	The User Data Access_24d9e service terminated unexpectedly.  It has done this 1 time(s).  The following corrective action will be taken in 10000 milliseconds: Restart the service.
+Error	16/12/2015 10:35:03	Service Control Manager	7031	None	The User Data Storage_24d9e service terminated unexpectedly.  It has done this 1 time(s).  The following corrective action will be taken in 10000 milliseconds: Restart the service.
+Error	16/12/2015 10:35:03	Service Control Manager	7031	None	The Contact Data_24d9e service terminated unexpectedly.  It has done this 1 time(s).  The following corrective action will be taken in 10000 milliseconds: Restart the service.
+Error	16/12/2015 10:35:03	Service Control Manager	7031	None	The Sync Host_24d9e service terminated unexpectedly.  It has done this 1 time(s).  The following corrective action will be taken in 10000 milliseconds: Restart the service.
+Error	16/12/2015 10:35:03	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{D63B10C5-BB46-4990-A94F-E40B9D520160}
+ and APPID 
+{9CA88EE3-ACB7-47C8-AFC4-AB702511C276}
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Information	16/12/2015 10:35:02	User32	1074	None	"The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-A5MB3PB) has initiated the power off of computer DESKTOP-A5MB3PB on behalf of user DESKTOP-A5MB3PB\Graeme for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+Information	16/12/2015 09:32:34	Lfsvc	1	None	Geolocation positioning is enabled.
+Information	16/12/2015 09:31:46	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	16/12/2015 09:31:10	Service Control Manager	7026	None	"The following boot-start or system-start driver(s) did not load: 
+dam"
+Information	16/12/2015 09:31:06	Microsoft-Windows-DHCPv6-Client	51046	Service State Event	DHCPv6 client service is started
+Information	16/12/2015 09:31:06	Microsoft-Windows-Dhcp-Client	50036	Service State Event	DHCPv4 client service is started
+Information	16/12/2015 09:31:06	Microsoft-Windows-Kernel-General	1	None	"The system time has changed to ‎2015‎-‎12‎-‎16T09:31:06.410000000Z from ‎2015‎-‎12‎-‎16T09:31:05.623011200Z.
+
+Change Reason: An application or system component changed the time."
+Information	16/12/2015 09:31:05	Microsoft-Windows-FilterManager	6	None	File System Filter 'storqosflt' (10.0, ‎2015‎-‎10‎-‎30T02:37:39.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	16/12/2015 09:31:05	Microsoft-Windows-FilterManager	6	None	File System Filter 'luafv' (10.0, ‎2015‎-‎10‎-‎30T02:34:43.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	16/12/2015 09:31:04	Microsoft-Windows-Wininit	14	None	Credential Guard (LsaIso.exe) configuration: 0x0, 0
+Information	16/12/2015 09:31:02	Microsoft-Windows-Hyper-V-Netvsc	11	(1003)	Miniport NIC 'Microsoft Hyper-V Network Adapter' restarted
+Information	16/12/2015 09:31:02	Microsoft-Windows-Hyper-V-Netvsc	3	(1002)	The miniport 'Microsoft Hyper-V Network Adapter' was successfully initialized
+Information	16/12/2015 09:31:02	Microsoft-Windows-Hyper-V-Netvsc	12	(1003)	Miniport NIC 'Microsoft Hyper-V Network Adapter' connected
+Information	16/12/2015 09:31:02	Microsoft-Windows-Hyper-V-Netvsc	13	(1003)	Miniport NIC 'Microsoft Hyper-V Network Adapter' disconnected
+Information	16/12/2015 09:31:02	Microsoft-Windows-Hyper-V-Netvsc	1	(1001)	The VM and host networking components successfully negotiated protocol version '6.1'
+Information	16/12/2015 09:31:02	Microsoft-Windows-Kernel-Processor-Power	55	(47)	"Processor 0 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 2295
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information	16/12/2015 09:31:02	Microsoft-Windows-Ntfs	98	None	Volume \\?\Volume{6b1cc1df-0000-0000-0000-100000000000} (\Device\HarddiskVolume1) is healthy.  No action is needed.
+Information	16/12/2015 09:31:02	Microsoft-Windows-FilterManager	6	None	File System Filter 'npsvctrig' (10.0, ‎2015‎-‎10‎-‎30T02:40:23.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	16/12/2015 09:31:02	Microsoft-Windows-FilterManager	6	None	File System Filter 'FileCrypt' (10.0, ‎2015‎-‎10‎-‎30T02:37:49.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	16/12/2015 09:31:02	Microsoft-Windows-Ntfs	98	None	Volume C: (\Device\HarddiskVolume2) is healthy.  No action is needed.
+Information	16/12/2015 09:31:02	Microsoft-Windows-FilterManager	6	None	File System Filter 'WdFilter' (10.0, ‎2015‎-‎10‎-‎30T02:34:35.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	16/12/2015 09:31:02	Microsoft-Windows-FilterManager	6	None	File System Filter 'Wof' (10.0, ‎2015‎-‎10‎-‎30T02:38:16.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	16/12/2015 09:31:02	Microsoft-Windows-FilterManager	6	None	File System Filter 'FileInfo' (10.0, ‎2015‎-‎10‎-‎30T02:37:17.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	16/12/2015 09:31:01	Microsoft-Windows-Kernel-Boot	32	None	The bootmgr spent 0 ms waiting for user input.
+Information	16/12/2015 09:31:01	Microsoft-Windows-Kernel-Boot	18	None	There are 0x1 boot options on this system.
+Information	16/12/2015 09:31:01	Microsoft-Windows-Kernel-Boot	25	None	The boot menu policy was 0x1.
+Information	16/12/2015 09:31:01	Microsoft-Windows-Kernel-Boot	27	None	The boot type was 0x0.
+Information	16/12/2015 09:31:01	Microsoft-Windows-Kernel-Boot	20	None	The last shutdown's success status was true. The last boot's success status was true.
+Information	16/12/2015 09:31:01	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2015‎-‎12‎-‎16T09:31:01.490302800Z.
+Information	16/12/2015 09:30:53	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2015‎-‎12‎-‎16T09:30:53.113083200Z.
+Information	16/12/2015 09:30:51	Microsoft-Windows-Kernel-Power	109	(103)	"The kernel power manager has initiated a shutdown transition.
+
+Shutdown Reason: Kernel API"
+Information	16/12/2015 09:31:05	EventLog	6013	None	The system uptime is 3 seconds.
+Information	16/12/2015 09:31:05	EventLog	6005	None	The Event log service was started.
+Information	16/12/2015 09:31:05	EventLog	6009	None	Microsoft (R) Windows (R) 10.00. 10586  Multiprocessor Free.
+Information	16/12/2015 09:30:50	Microsoft-Windows-Dhcp-Client	50037	Service State Event	DHCPv4 client service is stopped. ShutDown Flag value is 1
+Information	16/12/2015 09:30:50	Microsoft-Windows-DHCPv6-Client	51047	Service State Event	DHCPv6 client service is stopped. ShutDown Flag value is 1
+Information	16/12/2015 09:30:50	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Error	16/12/2015 09:30:49	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{D63B10C5-BB46-4990-A94F-E40B9D520160}
+ and APPID 
+{9CA88EE3-ACB7-47C8-AFC4-AB702511C276}
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Information	16/12/2015 09:30:50	EventLog	6006	None	The Event log service was stopped.
+Information	16/12/2015 09:30:47	Service Control Manager	7040	None	The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Information	16/12/2015 09:30:46	Application Popup	26	None	Application popup: cmd.exe - Application Error : The application was unable to start correctly (0xc0000142). Click OK to close the application. 
+Error	16/12/2015 09:30:46	Service Control Manager	7031	None	The User Data Access_37625 service terminated unexpectedly.  It has done this 1 time(s).  The following corrective action will be taken in 10000 milliseconds: Restart the service.
+Error	16/12/2015 09:30:46	Service Control Manager	7031	None	The User Data Storage_37625 service terminated unexpectedly.  It has done this 1 time(s).  The following corrective action will be taken in 10000 milliseconds: Restart the service.
+Error	16/12/2015 09:30:46	Service Control Manager	7031	None	The Contact Data_37625 service terminated unexpectedly.  It has done this 1 time(s).  The following corrective action will be taken in 10000 milliseconds: Restart the service.
+Error	16/12/2015 09:30:46	Service Control Manager	7031	None	The Sync Host_37625 service terminated unexpectedly.  It has done this 1 time(s).  The following corrective action will be taken in 10000 milliseconds: Restart the service.
+Error	16/12/2015 09:30:46	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{D63B10C5-BB46-4990-A94F-E40B9D520160}
+ and APPID 
+{9CA88EE3-ACB7-47C8-AFC4-AB702511C276}
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Information	16/12/2015 09:30:46	User32	1074	None	"The process C:\Windows\system32\svchost.exe (DESKTOP-A5MB3PB) has initiated the shutdown of computer DESKTOP-A5MB3PB on behalf of user DESKTOP-A5MB3PB\Graeme for the following reason: Other (Planned)
+ Reason Code: 0x80000000
+ Shutdown Type: shutdown
+ Comment: S"
+Information	16/12/2015 09:28:56	Microsoft-Windows-Kernel-General	1	None	"The system time has changed to ‎2015‎-‎12‎-‎16T09:28:56.325000000Z from ‎2015‎-‎12‎-‎16T09:28:56.289749500Z.
+
+Change Reason: An application or system component changed the time."
+Information	16/12/2015 09:28:32	Microsoft-Windows-Kernel-General	1	None	"The system time has changed to ‎2015‎-‎12‎-‎16T09:28:32.545000000Z from ‎2015‎-‎12‎-‎16T09:28:32.543578100Z.
+
+Change Reason: An application or system component changed the time."
+Information	16/12/2015 09:02:12	Lfsvc	1	None	Geolocation positioning is enabled.
+Information	16/12/2015 09:01:30	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: Cumulative Update for Windows 10 Version 1511 for x64-based Systems (KB3116900)
+Information	16/12/2015 09:01:13	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	16/12/2015 09:00:26	Service Control Manager	7040	None	The start type of the Windows Modules Installer service was changed from auto start to demand start.
+Information	16/12/2015 09:00:25	Microsoft-Windows-UserModePowerService	12	(10)	Process C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.10586.0_none_95e4f9a171a1ad95\TiWorker.exe (process ID:1400) reset policy scheme from {381B4222-F694-41F0-9685-FF5BB260DF2E} to {381B4222-F694-41F0-9685-FF5BB260DF2E}
+Information	16/12/2015 09:00:25	Microsoft-Windows-UserModePowerService	12	(10)	Process C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.10586.0_none_95e4f9a171a1ad95\TiWorker.exe (process ID:1400) reset policy scheme from {381B4222-F694-41F0-9685-FF5BB260DF2E} to {381B4222-F694-41F0-9685-FF5BB260DF2E}
+Information	16/12/2015 09:00:18	Microsoft-Windows-UserModePowerService	12	(10)	Process C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.10586.0_none_95e4f9a171a1ad95\TiWorker.exe (process ID:1400) reset policy scheme from {381B4222-F694-41F0-9685-FF5BB260DF2E} to {381B4222-F694-41F0-9685-FF5BB260DF2E}
+Information	16/12/2015 09:00:18	Microsoft-Windows-UserModePowerService	12	(10)	Process C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.10586.0_none_95e4f9a171a1ad95\TiWorker.exe (process ID:1400) reset policy scheme from {381B4222-F694-41F0-9685-FF5BB260DF2E} to {381B4222-F694-41F0-9685-FF5BB260DF2E}
+Information	16/12/2015 09:00:14	Service Control Manager	7026	None	"The following boot-start or system-start driver(s) did not load: 
+dam"
+Information	16/12/2015 09:00:07	Microsoft-Windows-DHCPv6-Client	51046	Service State Event	DHCPv6 client service is started
+Information	16/12/2015 09:00:07	Microsoft-Windows-Dhcp-Client	50036	Service State Event	DHCPv4 client service is started
+Information	16/12/2015 09:00:07	Microsoft-Windows-Kernel-General	1	None	"The system time has changed to ‎2015‎-‎12‎-‎16T09:00:07.537000000Z from ‎2015‎-‎12‎-‎16T09:00:05.855955400Z.
+
+Change Reason: An application or system component changed the time."
+Information	16/12/2015 09:00:04	Microsoft-Windows-FilterManager	6	None	File System Filter 'storqosflt' (10.0, ‎2015‎-‎10‎-‎30T02:37:39.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	16/12/2015 09:00:04	Microsoft-Windows-FilterManager	6	None	File System Filter 'luafv' (10.0, ‎2015‎-‎10‎-‎30T02:34:43.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	16/12/2015 09:00:02	Microsoft-Windows-Wininit	14	None	Credential Guard (LsaIso.exe) configuration: 0x0, 0
+Information	16/12/2015 08:59:54	Microsoft-Windows-Hyper-V-Netvsc	11	(1003)	Miniport NIC 'Microsoft Hyper-V Network Adapter' restarted
+Information	16/12/2015 08:59:54	Microsoft-Windows-Hyper-V-Netvsc	3	(1002)	The miniport 'Microsoft Hyper-V Network Adapter' was successfully initialized
+Information	16/12/2015 08:59:54	Microsoft-Windows-Hyper-V-Netvsc	12	(1003)	Miniport NIC 'Microsoft Hyper-V Network Adapter' connected
+Information	16/12/2015 08:59:54	Microsoft-Windows-Hyper-V-Netvsc	13	(1003)	Miniport NIC 'Microsoft Hyper-V Network Adapter' disconnected
+Information	16/12/2015 08:59:54	Microsoft-Windows-Hyper-V-Netvsc	1	(1001)	The VM and host networking components successfully negotiated protocol version '6.1'
+Information	16/12/2015 08:59:54	Microsoft-Windows-Kernel-Processor-Power	55	(47)	"Processor 0 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 2295
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information	16/12/2015 08:59:53	Microsoft-Windows-Ntfs	98	None	Volume \\?\Volume{6b1cc1df-0000-0000-0000-100000000000} (\Device\HarddiskVolume1) is healthy.  No action is needed.
+Information	16/12/2015 08:59:53	Microsoft-Windows-FilterManager	6	None	File System Filter 'npsvctrig' (10.0, ‎2015‎-‎10‎-‎30T02:40:23.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	16/12/2015 08:59:53	Microsoft-Windows-FilterManager	6	None	File System Filter 'FileCrypt' (10.0, ‎2015‎-‎10‎-‎30T02:37:49.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	16/12/2015 08:59:53	Microsoft-Windows-Ntfs	98	None	Volume C: (\Device\HarddiskVolume2) is healthy.  No action is needed.
+Information	16/12/2015 08:59:52	Microsoft-Windows-FilterManager	6	None	File System Filter 'WdFilter' (10.0, ‎2015‎-‎10‎-‎30T02:34:35.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	16/12/2015 08:59:52	Microsoft-Windows-FilterManager	6	None	File System Filter 'Wof' (10.0, ‎2015‎-‎10‎-‎30T02:38:16.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	16/12/2015 08:59:52	Microsoft-Windows-FilterManager	6	None	File System Filter 'FileInfo' (10.0, ‎2015‎-‎10‎-‎30T02:37:17.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	16/12/2015 08:59:52	Microsoft-Windows-Kernel-Boot	32	None	The bootmgr spent 0 ms waiting for user input.
+Information	16/12/2015 08:59:52	Microsoft-Windows-Kernel-Boot	18	None	There are 0x1 boot options on this system.
+Information	16/12/2015 08:59:52	Microsoft-Windows-Kernel-Boot	25	None	The boot menu policy was 0x1.
+Information	16/12/2015 08:59:52	Microsoft-Windows-Kernel-Boot	27	None	The boot type was 0x0.
+Information	16/12/2015 08:59:52	Microsoft-Windows-Kernel-Boot	20	None	The last shutdown's success status was true. The last boot's success status was true.
+Information	16/12/2015 08:59:52	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2015‎-‎12‎-‎16T08:59:52.484839900Z.
+Information	15/12/2015 18:49:33	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2015‎-‎12‎-‎15T18:49:33.056552400Z.
+Information	15/12/2015 18:49:32	Microsoft-Windows-Kernel-Power	109	(103)	"The kernel power manager has initiated a shutdown transition.
+
+Shutdown Reason: Kernel API"
+Information	15/12/2015 18:49:32	Microsoft-Windows-Kernel-Power	109	(103)	"The kernel power manager has initiated a shutdown transition.
+
+Shutdown Reason: Kernel API"
+Information	15/12/2015 18:49:32	Microsoft-Windows-Dhcp-Client	50037	Service State Event	DHCPv4 client service is stopped. ShutDown Flag value is 1
+Information	16/12/2015 09:00:05	EventLog	6013	None	The system uptime is 12 seconds.
+Information	16/12/2015 09:00:05	EventLog	6005	None	The Event log service was started.
+Information	16/12/2015 09:00:05	EventLog	6009	None	Microsoft (R) Windows (R) 10.00. 10586  Multiprocessor Free.
+Information	15/12/2015 18:49:31	Microsoft-Windows-DHCPv6-Client	51047	Service State Event	DHCPv6 client service is stopped. ShutDown Flag value is 1
+Information	15/12/2015 18:49:31	EventLog	6006	None	The Event log service was stopped.
+Information	15/12/2015 18:49:14	Service Control Manager	7040	None	The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Information	15/12/2015 18:40:52	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Windows\System32\SMI\Store\Machine\SCHEMA.DAT was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 18:40:29	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Error	15/12/2015 18:40:22	Service Control Manager	7031	None	The User Data Access_209677 service terminated unexpectedly.  It has done this 1 time(s).  The following corrective action will be taken in 10000 milliseconds: Restart the service.
+Error	15/12/2015 18:40:22	Service Control Manager	7031	None	The User Data Storage_209677 service terminated unexpectedly.  It has done this 1 time(s).  The following corrective action will be taken in 10000 milliseconds: Restart the service.
+Error	15/12/2015 18:40:22	Service Control Manager	7031	None	The Contact Data_209677 service terminated unexpectedly.  It has done this 1 time(s).  The following corrective action will be taken in 10000 milliseconds: Restart the service.
+Error	15/12/2015 18:40:22	Service Control Manager	7031	None	The Sync Host_209677 service terminated unexpectedly.  It has done this 1 time(s).  The following corrective action will be taken in 10000 milliseconds: Restart the service.
+Error	15/12/2015 18:40:22	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{D63B10C5-BB46-4990-A94F-E40B9D520160}
+ and APPID 
+{9CA88EE3-ACB7-47C8-AFC4-AB702511C276}
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Information	15/12/2015 18:40:20	User32	1074	None	"The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-A5MB3PB) has initiated the power off of computer DESKTOP-A5MB3PB on behalf of user DESKTOP-A5MB3PB\Graeme for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+Information	15/12/2015 16:54:12	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: Definition Update for Windows Defender - KB2267602 (Definition 1.211.2764.0)
+Information	15/12/2015 16:53:12	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: Definition Update for Windows Defender - KB2267602 (Definition 1.211.2764.0)
+Information	15/12/2015 16:52:09	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: Cumulative Update for Windows 10 Version 1511 for x64-based Systems (KB3116900)
+Information	15/12/2015 16:52:09	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: Windows Malicious Software Removal Tool for Windows 8, 8.1, 10 and Windows Server 2012, 2012 R2 x64 Edition - December 2015 (KB890830)
+Information	15/12/2015 16:52:05	Service Control Manager	7040	None	The start type of the Windows Modules Installer service was changed from demand start to auto start.
+Information	15/12/2015 16:50:15	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: Windows Malicious Software Removal Tool for Windows 8, 8.1, 10 and Windows Server 2012, 2012 R2 x64 Edition - December 2015 (KB890830)
+Information	15/12/2015 16:50:15	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: Security Update for Internet Explorer Flash Player for Windows 10 Version 1511 for x64-based Systems (KB3119147)
+Information	15/12/2015 16:50:15	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: Security Update for Internet Explorer Flash Player for Windows 10 Version 1511 for x64-based Systems (KB3119147)
+Information	15/12/2015 16:50:13	Service Control Manager	7040	None	The start type of the Windows Modules Installer service was changed from auto start to demand start.
+Information	15/12/2015 16:50:11	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Windows\System32\SMI\Store\Machine\SCHEMA.DAT was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 16:50:10	Service Control Manager	7040	None	The start type of the Windows Modules Installer service was changed from demand start to auto start.
+Information	15/12/2015 16:42:43	Service Control Manager	7040	None	The start type of the Windows Modules Installer service was changed from auto start to demand start.
+Information	15/12/2015 16:41:48	Service Control Manager	7040	None	The start type of the Windows Modules Installer service was changed from demand start to auto start.
+Information	15/12/2015 16:41:35	Service Control Manager	7040	None	The start type of the Windows Modules Installer service was changed from auto start to demand start.
+Information	15/12/2015 16:41:35	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Windows\System32\SMI\Store\Machine\SCHEMA.DAT was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 16:41:35	Service Control Manager	7040	None	The start type of the Windows Modules Installer service was changed from demand start to auto start.
+Information	15/12/2015 16:41:14	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	15/12/2015 16:41:14	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	15/12/2015 16:41:11	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	15/12/2015 16:41:11	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	15/12/2015 15:36:54	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: Messaging + Skype
+Information	15/12/2015 15:36:47	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.Messaging_8wekyb3d8bbwe\Microsoft.Messaging_1.11.19004.0_x86__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 15:36:45	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: Messaging + Skype
+Information	15/12/2015 15:36:45	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: Windows Maps
+Information	15/12/2015 15:36:39	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: Windows Maps
+Information	15/12/2015 15:36:39	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: Microsoft Wi-Fi
+Information	15/12/2015 15:36:38	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.WindowsMaps_8wekyb3d8bbwe\Microsoft.WindowsMaps_4.1512.3450.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 15:36:33	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: Microsoft Wi-Fi
+Information	15/12/2015 15:36:31	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.ConnectivityStore_8wekyb3d8bbwe\Microsoft.ConnectivityStore_1.1511.2.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 15:35:27	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	15/12/2015 15:35:27	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: Mail and Calendar
+Information	15/12/2015 15:35:27	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	15/12/2015 15:35:20	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\microsoft.windowscommunicationsapps_8wekyb3d8bbwe\microsoft.windowscommunicationsapps_17.6509.64001.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 15:35:17	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: Mail and Calendar
+Information	15/12/2015 15:35:17	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: Sway
+Information	15/12/2015 15:35:12	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	15/12/2015 15:35:08	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.Office.Sway_8wekyb3d8bbwe\Microsoft.Office.Sway_17.6509.20251.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 15:35:05	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: Sway
+Information	15/12/2015 15:35:05	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: 3D Builder
+Information	15/12/2015 15:34:44	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.3DBuilder_8wekyb3d8bbwe\Microsoft.3DBuilder_10.10.38.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 15:34:22	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: 3D Builder
+Information	15/12/2015 15:33:10	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	15/12/2015 15:33:03	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: OneNote
+Information	15/12/2015 15:33:03	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	15/12/2015 15:32:59	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: OneNote
+Information	15/12/2015 15:32:59	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: Groove Music
+Information	15/12/2015 15:32:57	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.Office.OneNote_8wekyb3d8bbwe\Microsoft.Office.OneNote_17.6366.15841.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 15:32:49	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.ZuneMusic_8wekyb3d8bbwe\Microsoft.ZuneMusic_3.6.15131.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 15:32:47	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: Groove Music
+Information	15/12/2015 15:32:47	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	15/12/2015 15:32:47	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: Movies & TV
+Information	15/12/2015 15:32:36	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: Movies & TV
+Information	15/12/2015 15:32:35	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\Microsoft.ZuneVideo_3.6.15731.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 15:32:00	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	15/12/2015 15:31:55	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: Get Office
+Information	15/12/2015 15:31:51	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	15/12/2015 15:31:51	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: Get Office
+Information	15/12/2015 15:31:51	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: Xbox
+Information	15/12/2015 15:31:49	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe\Microsoft.MicrosoftOfficeHub_17.6508.23761.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 15:31:44	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.XboxApp_8wekyb3d8bbwe\Microsoft.XboxApp_11.12.9011.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 15:31:44	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	15/12/2015 15:31:44	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: Xbox
+Information	15/12/2015 15:31:44	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: Windows Alarms & Clock
+Information	15/12/2015 15:31:36	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.WindowsAlarms_8wekyb3d8bbwe\Microsoft.WindowsAlarms_10.1511.65020.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 15:31:34	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: Windows Alarms & Clock
+Information	15/12/2015 15:30:38	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	15/12/2015 15:30:34	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: Microsoft Photos
+Information	15/12/2015 15:30:34	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	15/12/2015 15:30:29	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\Microsoft.Windows.Photos_15.1208.10480.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 15:30:27	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: Microsoft Photos
+Information	15/12/2015 15:30:27	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: Windows Camera
+Information	15/12/2015 15:30:22	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.WindowsCamera_8wekyb3d8bbwe\Microsoft.WindowsCamera_2015.1078.40.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 15:30:22	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	15/12/2015 15:30:22	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: Windows Camera
+Information	15/12/2015 15:30:22	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: Windows Calculator
+Information	15/12/2015 15:30:13	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: Windows Calculator
+Information	15/12/2015 15:30:13	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.WindowsCalculator_8wekyb3d8bbwe\Microsoft.WindowsCalculator_10.1512.34020.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 15:29:33	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	15/12/2015 15:29:28	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: Microsoft Phone
+Information	15/12/2015 15:29:22	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.CommsPhone_8wekyb3d8bbwe\Microsoft.CommsPhone_2.12.2002.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 15:29:21	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	15/12/2015 15:29:21	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: Microsoft Phone
+Information	15/12/2015 15:29:21	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: Microsoft People
+Information	15/12/2015 15:29:14	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	15/12/2015 15:29:14	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: Microsoft People
+Information	15/12/2015 15:29:13	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.People_8wekyb3d8bbwe\Microsoft.People_10.0.3350.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 15:29:05	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: Microsoft Solitaire Collection
+Information	15/12/2015 15:27:46	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.MicrosoftSolitaireCollection_8wekyb3d8bbwe\Microsoft.MicrosoftSolitaireCollection_3.5.11021.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 15:27:32	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: Microsoft Solitaire Collection
+Information	15/12/2015 15:27:32	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	15/12/2015 15:27:06	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: Microsoft Phone Companion
+Information	15/12/2015 15:25:08	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.WindowsPhone_8wekyb3d8bbwe\Microsoft.WindowsPhone_10.1511.18010.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 15:24:57	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	15/12/2015 15:24:46	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: Microsoft Phone Companion
+Information	15/12/2015 15:24:35	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: MSN Sports
+Information	15/12/2015 15:23:46	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.BingSports_8wekyb3d8bbwe\Microsoft.BingSports_4.7.130.0_x86__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 15:23:37	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: MSN Sports
+Information	15/12/2015 15:22:31	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	15/12/2015 15:22:24	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: Store
+Information	15/12/2015 15:22:14	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: Store
+Information	15/12/2015 15:22:14	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.WindowsStore_8wekyb3d8bbwe\Microsoft.WindowsStore_2015.23.23.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 15:20:47	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	15/12/2015 15:20:37	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: Windows Voice Recorder
+Information	15/12/2015 15:20:11	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.WindowsSoundRecorder_8wekyb3d8bbwe\Microsoft.WindowsSoundRecorder_10.1511.17110.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 15:20:03	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: Windows Voice Recorder
+Information	15/12/2015 15:19:41	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	15/12/2015 15:19:41	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: MSN Weather
+Information	15/12/2015 15:18:34	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.BingWeather_8wekyb3d8bbwe\Microsoft.BingWeather_4.7.118.0_x86__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 15:17:09	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: MSN Weather
+Information	15/12/2015 15:16:07	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	15/12/2015 15:16:03	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: MSN News
+Information	15/12/2015 15:16:03	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	15/12/2015 15:15:56	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.BingNews_8wekyb3d8bbwe\Microsoft.BingNews_4.7.118.0_x86__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 15:15:56	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: MSN News
+Information	15/12/2015 15:15:56	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: Get Started
+Information	15/12/2015 15:15:49	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.Getstarted_8wekyb3d8bbwe\Microsoft.Getstarted_2.5.6.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 15:15:49	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	15/12/2015 15:15:49	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: Get Started
+Information	15/12/2015 15:15:49	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: MSN Money
+Information	15/12/2015 15:15:43	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: MSN Money
+Information	15/12/2015 15:15:42	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.BingFinance_8wekyb3d8bbwe\Microsoft.BingFinance_4.7.118.0_x86__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 15:14:40	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	15/12/2015 15:14:40	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	15/12/2015 15:14:36	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	15/12/2015 14:54:11	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	15/12/2015 14:54:05	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Error	15/12/2015 14:54:03	Microsoft-Windows-DistributedCOM	10010	None	The server {0002DF02-0000-0000-C000-000000000046} did not register with DCOM within the required timeout.
+Error	15/12/2015 14:53:59	Microsoft-Windows-DistributedCOM	10010	None	The server CortanaUI.AppXx19q0gyvntjc9d3jsjsfaertqgy617se.mca did not register with DCOM within the required timeout.
+Error	15/12/2015 14:53:59	Microsoft-Windows-DistributedCOM	10010	None	The server CompanionApp.App.AppXd70q285y9yf126fg7srgst0m5akck63d.mca did not register with DCOM within the required timeout.
+Error	15/12/2015 14:53:59	Microsoft-Windows-DistributedCOM	10010	None	The server App.AppXa372cjaa29frn3f9zb3m28rmfsm402nx.mca did not register with DCOM within the required timeout.
+Error	15/12/2015 14:53:59	Service Control Manager	7031	None	The User Data Access_2494b service terminated unexpectedly.  It has done this 1 time(s).  The following corrective action will be taken in 10000 milliseconds: Restart the service.
+Error	15/12/2015 14:53:59	Service Control Manager	7031	None	The User Data Storage_2494b service terminated unexpectedly.  It has done this 1 time(s).  The following corrective action will be taken in 10000 milliseconds: Restart the service.
+Error	15/12/2015 14:53:59	Service Control Manager	7031	None	The Contact Data_2494b service terminated unexpectedly.  It has done this 1 time(s).  The following corrective action will be taken in 10000 milliseconds: Restart the service.
+Error	15/12/2015 14:53:59	Service Control Manager	7031	None	The Sync Host_2494b service terminated unexpectedly.  It has done this 1 time(s).  The following corrective action will be taken in 10000 milliseconds: Restart the service.
+Error	15/12/2015 14:53:58	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{D63B10C5-BB46-4990-A94F-E40B9D520160}
+ and APPID 
+{9CA88EE3-ACB7-47C8-AFC4-AB702511C276}
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Information	15/12/2015 14:50:33	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: HP All-in-One Printer Remote
+Information	15/12/2015 14:50:28	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: HP All-in-One Printer Remote
+Information	15/12/2015 14:50:27	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\AD2F1837.HPPrinterControl_v10z8vjag6ke6\AD2F1837.HPPrinterControl_58.1.78.0_x86__v10z8vjag6ke6\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:50:27	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\AD2F1837.HPPrinterControl_v10z8vjag6ke6\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:49:47	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: Excel Mobile
+Information	15/12/2015 14:49:42	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: Excel Mobile
+Information	15/12/2015 14:49:42	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.Office.Excel_8wekyb3d8bbwe\Microsoft.Office.Excel_17.6228.10111.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:49:41	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.Office.Excel_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:49:07	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	15/12/2015 14:49:01	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	15/12/2015 14:48:49	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\windows.devicesflow_cw5n1h2txyewy\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:48:49	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:48:49	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.WindowsSoundRecorder_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:48:49	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.WindowsPhone_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:48:49	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.WindowsMaps_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:48:49	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.WindowsCalculator_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:48:49	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.WindowsAlarms_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:48:49	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:48:49	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.People_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:48:49	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.Office.Sway_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:48:49	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.Office.OneNote_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:48:46	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.MicrosoftSolitaireCollection_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:48:45	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:48:45	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.ConnectivityStore_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:48:45	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.BingSports_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:48:45	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.Appconnector_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:48:45	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.3DBuilder_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:48:45	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\king.com.CandyCrushSodaSaga_kgqvnymyfvs32\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:48:45	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\9E2F88E3.Twitter_wgeqdkkx372wm\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:48:40	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Windows\system32\Microsoft\Protect\Recovery\Recovery.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:46:35	Service Control Manager	7040	None	The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Information	15/12/2015 14:41:13	Service Control Manager	7040	None	The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Information	15/12/2015 14:39:59	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: Candy Crush Soda Saga
+Information	15/12/2015 14:39:53	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: Candy Crush Soda Saga
+Information	15/12/2015 14:39:51	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\king.com.CandyCrushSodaSaga_kgqvnymyfvs32\king.com.CandyCrushSodaSaga_1.54.900.0_x86__kgqvnymyfvs32\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:38:42	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	15/12/2015 14:38:40	Service Control Manager	7026	None	"The following boot-start or system-start driver(s) did not load: 
+dam"
+Information	15/12/2015 14:38:37	Lfsvc	1	None	Geolocation positioning is enabled.
+Information	15/12/2015 14:38:36	Microsoft-Windows-DHCPv6-Client	51046	Service State Event	DHCPv6 client service is started
+Information	15/12/2015 14:38:36	Microsoft-Windows-Dhcp-Client	50036	Service State Event	DHCPv4 client service is started
+Information	15/12/2015 14:38:35	Microsoft-Windows-Kernel-General	1	None	"The system time has changed to ‎2015‎-‎12‎-‎15T14:38:35.731000000Z from ‎2015‎-‎12‎-‎15T14:38:35.518880600Z.
+
+Change Reason: An application or system component changed the time."
+Information	15/12/2015 14:38:34	Microsoft-Windows-FilterManager	6	None	File System Filter 'storqosflt' (10.0, ‎2015‎-‎10‎-‎30T02:37:39.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	15/12/2015 14:38:34	Microsoft-Windows-FilterManager	6	None	File System Filter 'luafv' (10.0, ‎2015‎-‎10‎-‎30T02:34:43.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	15/12/2015 14:38:33	Microsoft-Windows-Wininit	14	None	Credential Guard (LsaIso.exe) configuration: 0x0, 0
+Information	15/12/2015 14:38:31	Microsoft-Windows-Ntfs	98	None	Volume \\?\Volume{6b1cc1df-0000-0000-0000-100000000000} (\Device\HarddiskVolume1) is healthy.  No action is needed.
+Information	15/12/2015 14:38:31	Microsoft-Windows-Hyper-V-Netvsc	11	(1003)	Miniport NIC 'Microsoft Hyper-V Network Adapter' restarted
+Information	15/12/2015 14:38:31	Microsoft-Windows-Hyper-V-Netvsc	3	(1002)	The miniport 'Microsoft Hyper-V Network Adapter' was successfully initialized
+Information	15/12/2015 14:38:31	Microsoft-Windows-Hyper-V-Netvsc	12	(1003)	Miniport NIC 'Microsoft Hyper-V Network Adapter' connected
+Information	15/12/2015 14:38:31	Microsoft-Windows-Hyper-V-Netvsc	13	(1003)	Miniport NIC 'Microsoft Hyper-V Network Adapter' disconnected
+Information	15/12/2015 14:38:31	Microsoft-Windows-Hyper-V-Netvsc	1	(1001)	The VM and host networking components successfully negotiated protocol version '6.1'
+Information	15/12/2015 14:38:31	Microsoft-Windows-Kernel-Processor-Power	55	(47)	"Processor 0 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 2295
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information	15/12/2015 14:38:31	Microsoft-Windows-FilterManager	6	None	File System Filter 'npsvctrig' (10.0, ‎2015‎-‎10‎-‎30T02:40:23.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	15/12/2015 14:38:31	Microsoft-Windows-FilterManager	6	None	File System Filter 'FileCrypt' (10.0, ‎2015‎-‎10‎-‎30T02:37:49.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	15/12/2015 14:38:31	Microsoft-Windows-Ntfs	98	None	Volume C: (\Device\HarddiskVolume2) is healthy.  No action is needed.
+Information	15/12/2015 14:38:30	Microsoft-Windows-FilterManager	6	None	File System Filter 'WdFilter' (10.0, ‎2015‎-‎10‎-‎30T02:34:35.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	15/12/2015 14:38:30	Microsoft-Windows-FilterManager	6	None	File System Filter 'Wof' (10.0, ‎2015‎-‎10‎-‎30T02:38:16.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	15/12/2015 14:38:30	Microsoft-Windows-FilterManager	6	None	File System Filter 'FileInfo' (10.0, ‎2015‎-‎10‎-‎30T02:37:17.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	15/12/2015 14:38:30	Microsoft-Windows-Kernel-Boot	32	None	The bootmgr spent 0 ms waiting for user input.
+Information	15/12/2015 14:38:30	Microsoft-Windows-Kernel-Boot	18	None	There are 0x1 boot options on this system.
+Information	15/12/2015 14:38:30	Microsoft-Windows-Kernel-Boot	25	None	The boot menu policy was 0x1.
+Information	15/12/2015 14:38:30	Microsoft-Windows-Kernel-Boot	27	None	The boot type was 0x0.
+Information	15/12/2015 14:38:30	Microsoft-Windows-Kernel-Boot	20	None	The last shutdown's success status was true. The last boot's success status was true.
+Information	15/12/2015 14:38:30	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2015‎-‎12‎-‎15T14:38:30.498743400Z.
+Information	15/12/2015 14:38:26	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2015‎-‎12‎-‎15T14:38:26.703982000Z.
+Information	15/12/2015 14:38:25	Microsoft-Windows-Kernel-Power	109	(103)	"The kernel power manager has initiated a shutdown transition.
+
+Shutdown Reason: Kernel API"
+Information	15/12/2015 14:38:34	EventLog	6013	None	The system uptime is 4 seconds.
+Information	15/12/2015 14:38:34	EventLog	6005	None	The Event log service was started.
+Information	15/12/2015 14:38:34	EventLog	6009	None	Microsoft (R) Windows (R) 10.00. 10586  Multiprocessor Free.
+Information	15/12/2015 14:38:22	Microsoft-Windows-Dhcp-Client	50037	Service State Event	DHCPv4 client service is stopped. ShutDown Flag value is 1
+Information	15/12/2015 14:38:22	Microsoft-Windows-DHCPv6-Client	51047	Service State Event	DHCPv6 client service is stopped. ShutDown Flag value is 1
+Information	15/12/2015 14:38:21	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	15/12/2015 14:38:22	EventLog	6006	None	The Event log service was stopped.
+Error	15/12/2015 14:38:19	Service Control Manager	7031	None	The User Data Access_26861 service terminated unexpectedly.  It has done this 1 time(s).  The following corrective action will be taken in 10000 milliseconds: Restart the service.
+Error	15/12/2015 14:38:19	Service Control Manager	7031	None	The User Data Storage_26861 service terminated unexpectedly.  It has done this 1 time(s).  The following corrective action will be taken in 10000 milliseconds: Restart the service.
+Error	15/12/2015 14:38:19	Service Control Manager	7031	None	The Contact Data_26861 service terminated unexpectedly.  It has done this 1 time(s).  The following corrective action will be taken in 10000 milliseconds: Restart the service.
+Error	15/12/2015 14:38:19	Service Control Manager	7031	None	The Sync Host_26861 service terminated unexpectedly.  It has done this 1 time(s).  The following corrective action will be taken in 10000 milliseconds: Restart the service.
+Error	15/12/2015 14:38:19	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{D63B10C5-BB46-4990-A94F-E40B9D520160}
+ and APPID 
+{9CA88EE3-ACB7-47C8-AFC4-AB702511C276}
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Information	15/12/2015 14:38:18	User32	1074	None	"The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-A5MB3PB) has initiated the restart of computer DESKTOP-A5MB3PB on behalf of user DESKTOP-A5MB3PB\Graeme for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: restart
+ Comment: "
+Information	15/12/2015 14:36:39	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.3DBuilder_8wekyb3d8bbwe\Microsoft.3DBuilder_10.9.50.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:36:34	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.Appconnector_8wekyb3d8bbwe\Microsoft.Appconnector_1.3.3.0_neutral__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:36:31	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.CommsPhone_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:36:29	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.BingSports_8wekyb3d8bbwe\Microsoft.BingSports_4.6.169.0_x86__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:36:23	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.Messaging_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:36:22	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.CommsPhone_8wekyb3d8bbwe\Microsoft.CommsPhone_1.10.15000.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:36:17	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.ConnectivityStore_8wekyb3d8bbwe\Microsoft.ConnectivityStore_1.1509.1.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:36:14	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.Messaging_8wekyb3d8bbwe\Microsoft.Messaging_1.10.22012.0_x86__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:36:09	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe\Microsoft.MicrosoftOfficeHub_17.6306.23501.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:35:52	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.MicrosoftSolitaireCollection_8wekyb3d8bbwe\Microsoft.MicrosoftSolitaireCollection_3.3.9211.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:35:43	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.Office.OneNote_8wekyb3d8bbwe\Microsoft.Office.OneNote_17.6131.10051.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:35:27	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.Office.Sway_8wekyb3d8bbwe\Microsoft.Office.Sway_17.6216.20251.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:34:49	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	15/12/2015 14:34:24	Service Control Manager	7026	None	"The following boot-start or system-start driver(s) did not load: 
+dam"
+Information	15/12/2015 14:34:19	Microsoft-Windows-DHCPv6-Client	51046	Service State Event	DHCPv6 client service is started
+Information	15/12/2015 14:34:19	Microsoft-Windows-Dhcp-Client	50036	Service State Event	DHCPv4 client service is started
+Information	15/12/2015 14:34:19	Microsoft-Windows-Kernel-General	1	None	"The system time has changed to ‎2015‎-‎12‎-‎15T14:34:19.418000000Z from ‎2015‎-‎12‎-‎15T14:34:17.896007900Z.
+
+Change Reason: An application or system component changed the time."
+Information	15/12/2015 14:34:17	Microsoft-Windows-FilterManager	6	None	File System Filter 'storqosflt' (10.0, ‎2015‎-‎10‎-‎30T02:37:39.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	15/12/2015 14:34:17	Microsoft-Windows-FilterManager	6	None	File System Filter 'luafv' (10.0, ‎2015‎-‎10‎-‎30T02:34:43.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	15/12/2015 14:34:20	Lfsvc	1	None	Geolocation positioning is enabled.
+Information	15/12/2015 14:34:15	Microsoft-Windows-Wininit	14	None	Credential Guard (LsaIso.exe) configuration: 0x0, 0
+Information	15/12/2015 14:34:13	Microsoft-Windows-Ntfs	98	None	Volume \\?\Volume{6b1cc1df-0000-0000-0000-100000000000} (\Device\HarddiskVolume1) is healthy.  No action is needed.
+Information	15/12/2015 14:34:13	Microsoft-Windows-Hyper-V-Netvsc	11	(1003)	Miniport NIC 'Microsoft Hyper-V Network Adapter' restarted
+Information	15/12/2015 14:34:13	Microsoft-Windows-Hyper-V-Netvsc	3	(1002)	The miniport 'Microsoft Hyper-V Network Adapter' was successfully initialized
+Information	15/12/2015 14:34:13	Microsoft-Windows-Hyper-V-Netvsc	12	(1003)	Miniport NIC 'Microsoft Hyper-V Network Adapter' connected
+Information	15/12/2015 14:34:13	Microsoft-Windows-Hyper-V-Netvsc	13	(1003)	Miniport NIC 'Microsoft Hyper-V Network Adapter' disconnected
+Information	15/12/2015 14:34:13	Microsoft-Windows-Hyper-V-Netvsc	1	(1001)	The VM and host networking components successfully negotiated protocol version '6.1'
+Information	15/12/2015 14:34:13	Microsoft-Windows-Kernel-Processor-Power	55	(47)	"Processor 0 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 2295
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information	15/12/2015 14:34:13	Microsoft-Windows-FilterManager	6	None	File System Filter 'npsvctrig' (10.0, ‎2015‎-‎10‎-‎30T02:40:23.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	15/12/2015 14:34:13	Microsoft-Windows-FilterManager	6	None	File System Filter 'FileCrypt' (10.0, ‎2015‎-‎10‎-‎30T02:37:49.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	15/12/2015 14:34:12	Microsoft-Windows-Ntfs	98	None	Volume C: (\Device\HarddiskVolume2) is healthy.  No action is needed.
+Information	15/12/2015 14:34:12	Microsoft-Windows-FilterManager	6	None	File System Filter 'WdFilter' (10.0, ‎2015‎-‎10‎-‎30T02:34:35.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	15/12/2015 14:34:12	Microsoft-Windows-FilterManager	6	None	File System Filter 'Wof' (10.0, ‎2015‎-‎10‎-‎30T02:38:16.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	15/12/2015 14:34:12	Microsoft-Windows-FilterManager	6	None	File System Filter 'FileInfo' (10.0, ‎2015‎-‎10‎-‎30T02:37:17.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	15/12/2015 14:34:11	Microsoft-Windows-Kernel-Boot	32	None	The bootmgr spent 0 ms waiting for user input.
+Information	15/12/2015 14:34:11	Microsoft-Windows-Kernel-Boot	18	None	There are 0x1 boot options on this system.
+Information	15/12/2015 14:34:11	Microsoft-Windows-Kernel-Boot	25	None	The boot menu policy was 0x1.
+Information	15/12/2015 14:34:11	Microsoft-Windows-Kernel-Boot	27	None	The boot type was 0x0.
+Information	15/12/2015 14:34:11	Microsoft-Windows-Kernel-Boot	20	None	The last shutdown's success status was true. The last boot's success status was true.
+Information	15/12/2015 14:34:11	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2015‎-‎12‎-‎15T14:34:11.487528600Z.
+Information	15/12/2015 14:34:08	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2015‎-‎12‎-‎15T14:34:08.683092200Z.
+Information	15/12/2015 14:34:07	Microsoft-Windows-Kernel-Power	109	(103)	"The kernel power manager has initiated a shutdown transition.
+
+Shutdown Reason: Kernel API"
+Information	15/12/2015 14:34:19	EventLog	6013	None	The system uptime is 6 seconds.
+Information	15/12/2015 14:34:19	EventLog	6005	None	The Event log service was started.
+Information	15/12/2015 14:34:19	EventLog	6009	None	Microsoft (R) Windows (R) 10.00. 10586  Multiprocessor Free.
+Information	15/12/2015 14:34:02	Microsoft-Windows-Dhcp-Client	50037	Service State Event	DHCPv4 client service is stopped. ShutDown Flag value is 1
+Information	15/12/2015 14:34:02	Microsoft-Windows-DHCPv6-Client	51047	Service State Event	DHCPv6 client service is stopped. ShutDown Flag value is 1
+Information	15/12/2015 14:34:02	EventLog	6006	None	The Event log service was stopped.
+Information	15/12/2015 14:33:56	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Error	15/12/2015 14:33:54	Microsoft-Windows-DistributedCOM	10010	None	The server CortanaUI.AppXtpp90jhw9p0njjb85kvhxpppgrqfp117.mca did not register with DCOM within the required timeout.
+Error	15/12/2015 14:33:50	Service Control Manager	7031	None	The Sync Host_7c39a service terminated unexpectedly.  It has done this 1 time(s).  The following corrective action will be taken in 10000 milliseconds: Restart the service.
+Error	15/12/2015 14:33:50	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{D63B10C5-BB46-4990-A94F-E40B9D520160}
+ and APPID 
+{9CA88EE3-ACB7-47C8-AFC4-AB702511C276}
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Information	15/12/2015 14:33:49	User32	1074	None	"The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-A5MB3PB) has initiated the restart of computer DESKTOP-A5MB3PB on behalf of user DESKTOP-A5MB3PB\Graeme for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: restart
+ Comment: "
+Information	15/12/2015 14:33:43	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.People_8wekyb3d8bbwe\Microsoft.People_10.0.2840.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:33:39	Service Control Manager	7040	None	The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Information	15/12/2015 14:33:31	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.WindowsCalculator_8wekyb3d8bbwe\Microsoft.WindowsCalculator_10.1510.9020.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:33:19	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.WindowsMaps_8wekyb3d8bbwe\Microsoft.WindowsMaps_4.1509.50911.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:33:10	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.WindowsPhone_8wekyb3d8bbwe\Microsoft.WindowsPhone_10.1510.9010.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:33:02	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.WindowsSoundRecorder_8wekyb3d8bbwe\Microsoft.WindowsSoundRecorder_10.1510.12110.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:32:51	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\Microsoft.ZuneVideo_3.6.13251.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:32:31	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\Microsoft.SkypeApp_3.2.1.0_x86__kzf8qxf38zg5c\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:32:30	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.NET.Native.Framework.1.0_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:32:29	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.NET.Native.Runtime.1.0_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:32:04	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.WindowsAlarms_8wekyb3d8bbwe\Microsoft.WindowsAlarms_10.1510.12020.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:31:52	Service Control Manager	7040	None	The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Information	15/12/2015 14:30:39	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: Twitter
+Information	15/12/2015 14:30:27	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\9E2F88E3.Twitter_wgeqdkkx372wm\9E2F88E3.Twitter_4.3.1.0_x86__wgeqdkkx372wm\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:30:21	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: Twitter
+Information	15/12/2015 14:30:21	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: Microsoft .Net Native Framework Package 1.2.23205.0
+Information	15/12/2015 14:30:16	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: Microsoft .Net Native Framework Package 1.2.23205.0
+Information	15/12/2015 14:30:16	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: Microsoft .Net Native Runtime Package 1.1.23101.0
+Information	15/12/2015 14:30:15	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.NET.Native.Framework.1.2_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:29:58	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: Microsoft .Net Native Runtime Package 1.1.23101.0
+Information	15/12/2015 14:29:30	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	15/12/2015 14:29:15	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	15/12/2015 14:29:09	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	15/12/2015 14:29:07	Service Control Manager	7040	None	The start type of the Windows Modules Installer service was changed from auto start to demand start.
+Information	15/12/2015 14:29:06	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Windows\System32\SMI\Store\Machine\SCHEMA.DAT was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:29:05	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	15/12/2015 14:29:00	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	15/12/2015 14:28:59	Service Control Manager	7040	None	The start type of the Windows Modules Installer service was changed from demand start to auto start.
+Information	15/12/2015 14:28:55	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	15/12/2015 14:28:53	Service Control Manager	7040	None	The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Information	15/12/2015 14:21:33	Service Control Manager	7040	None	The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Information	15/12/2015 14:18:49	Service Control Manager	7040	None	The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Information	15/12/2015 14:17:43	Service Control Manager	7040	None	The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Information	15/12/2015 14:17:40	Microsoft-Windows-UserPnp	20001	(7005)	Driver Management concluded the process to install driver prnhpcl1.inf_amd64_ac4058baa95eef39\prnhpcl1.inf for Device Instance ID SWD\PRINTENUM\WSD-311B0343-1445-4EF2-9704-13A7F6602832.003A with the following status: 0x0.
+Information	15/12/2015 14:17:33	Microsoft-Windows-UserPnp	20001	(7005)	Driver Management concluded the process to install driver wsdprint.inf_amd64_1269564841c36034\wsdprint.inf for Device Instance ID SWD\DAFWSDPROVIDER\UUID:1C852A4D-B800-1F08-ABCD-0025B3035D8E/HTTP://WWW.HP.COM/SCHEMAS/IMAGING/CON/LEDM/DISCOVERYTREE/2007/07/01 with the following status: 0x0.
+Information	15/12/2015 14:17:32	Service Control Manager	7045	None	"A service was installed in the system.
+
+Service Name:  WSD Print Support
+Service File Name:  \SystemRoot\System32\drivers\WSDPrint.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+Information	15/12/2015 14:17:30	Service Control Manager	7040	None	The start type of the Device Association Service service was changed from demand start to auto start.
+Information	15/12/2015 14:16:55	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Windows.PurchaseDialog_cw5n1h2txyewy\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:16:55	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Windows.PrintDialog_cw5n1h2txyewy\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:16:55	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Windows.MiracastView_cw5n1h2txyewy\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:16:55	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\windows.immersivecontrolpanel_cw5n1h2txyewy\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:16:55	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Windows.ContactSupport_cw5n1h2txyewy\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:16:55	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.ZuneMusic_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:16:55	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.XboxIdentityProvider_cw5n1h2txyewy\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:16:55	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.XboxGameCallableUI_cw5n1h2txyewy\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:16:54	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.WindowsStore_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:16:54	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.WindowsFeedback_cw5n1h2txyewy\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:16:54	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.WindowsCamera_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:16:54	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.Windows.SecondaryTileExperience_cw5n1h2txyewy\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:16:54	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.Windows.ParentalControls_cw5n1h2txyewy\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:16:54	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:16:54	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.Windows.AssignedAccessLockApp_cw5n1h2txyewy\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:16:53	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:16:53	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.LockApp_cw5n1h2txyewy\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:16:53	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.Getstarted_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:16:53	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.BioEnrollment_cw5n1h2txyewy\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:16:53	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.BingWeather_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:16:53	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.BingNews_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:16:53	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.BingFinance_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:16:53	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.AccountsControl_cw5n1h2txyewy\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:16:53	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:15:52	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.XboxApp_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:15:51	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:15:45	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.Getstarted_8wekyb3d8bbwe\Microsoft.Getstarted_2.3.7.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:15:41	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.ZuneMusic_8wekyb3d8bbwe\Microsoft.ZuneMusic_3.6.13251.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:15:40	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.XboxApp_8wekyb3d8bbwe\Microsoft.XboxApp_9.9.30030.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:15:39	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.WindowsStore_8wekyb3d8bbwe\Microsoft.WindowsStore_2015.10.13.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:15:38	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.WindowsCamera_8wekyb3d8bbwe\Microsoft.WindowsCamera_2015.1071.40.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:15:36	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\microsoft.windowscommunicationsapps_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:15:35	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\Microsoft.Windows.Photos_15.1001.16470.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:15:34	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.BingWeather_8wekyb3d8bbwe\Microsoft.BingWeather_4.6.169.0_x86__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:15:32	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:15:32	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.BingNews_8wekyb3d8bbwe\Microsoft.BingNews_4.6.169.0_x86__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:15:31	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.BingFinance_8wekyb3d8bbwe\Microsoft.BingFinance_4.6.169.0_x86__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:15:30	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.NET.Native.Framework.1.1_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:15:30	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.NET.Native.Runtime.1.1_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:15:25	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\microsoft.windowscommunicationsapps_8wekyb3d8bbwe\microsoft.windowscommunicationsapps_17.6308.42271.0_x64__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:15:20	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.VCLibs.140.00_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:15:01	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:15:00	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:14:52	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Windows.PurchaseDialog_cw5n1h2txyewy\Windows.PurchaseDialog_6.2.0.0_neutral_neutral_cw5n1h2txyewy\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:14:47	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Windows.ContactSupport_cw5n1h2txyewy\Windows.ContactSupport_10.0.10586.0_neutral_neutral_cw5n1h2txyewy\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:14:47	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.XboxIdentityProvider_cw5n1h2txyewy\Microsoft.XboxIdentityProvider_1000.10586.0.0_neutral_neutral_cw5n1h2txyewy\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:14:46	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.XboxGameCallableUI_cw5n1h2txyewy\Microsoft.XboxGameCallableUI_1000.10586.0.0_neutral_neutral_cw5n1h2txyewy\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:14:43	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.WindowsFeedback_cw5n1h2txyewy\Microsoft.WindowsFeedback_10.0.10586.0_neutral_neutral_cw5n1h2txyewy\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:14:42	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.Windows.SecondaryTileExperience_cw5n1h2txyewy\Microsoft.Windows.SecondaryTileExperience_10.0.0.0_neutral__cw5n1h2txyewy\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:14:41	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.Windows.ParentalControls_cw5n1h2txyewy\Microsoft.Windows.ParentalControls_1000.10586.0.0_neutral_neutral_cw5n1h2txyewy\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:14:40	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\Microsoft.Windows.ContentDeliveryManager_10.0.10586.0_neutral_neutral_cw5n1h2txyewy\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:14:39	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.Windows.AssignedAccessLockApp_cw5n1h2txyewy\Microsoft.Windows.AssignedAccessLockApp_1000.10586.0.0_neutral_neutral_cw5n1h2txyewy\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:14:39	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\Microsoft.MicrosoftEdge_25.10586.0.0_neutral__8wekyb3d8bbwe\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:14:37	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.LockApp_cw5n1h2txyewy\Microsoft.LockApp_10.0.10586.0_neutral__cw5n1h2txyewy\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:14:36	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.AccountsControl_cw5n1h2txyewy\Microsoft.AccountsControl_10.0.10586.0_neutral__cw5n1h2txyewy\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:14:35	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\Microsoft.Windows.Cortana_1.6.1.52_neutral_neutral_cw5n1h2txyewy\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:14:12	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy\Microsoft.Windows.ShellExperienceHost_10.0.10586.0_neutral_neutral_cw5n1h2txyewy\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:13:52	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy\Microsoft.Windows.CloudExperienceHost_10.0.10586.0_neutral_neutral_cw5n1h2txyewy\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:13:52	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy\Microsoft.AAD.BrokerPlugin_1000.10586.0.0_neutral_neutral_cw5n1h2txyewy\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:13:47	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Graeme\AppData\Local\Packages\Microsoft.BioEnrollment_cw5n1h2txyewy\Microsoft.BioEnrollment_10.0.10586.0_neutral__cw5n1h2txyewy\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:13:45	Microsoft-Windows-GroupPolicy	1501	None	The Group Policy settings for the user were processed successfully. There were no changes detected since the last successful processing of Group Policy.
+Information	15/12/2015 14:13:44	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	15/12/2015 14:13:43	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Error	15/12/2015 14:13:35	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{D63B10C5-BB46-4990-A94F-E40B9D520160}
+ and APPID 
+{9CA88EE3-ACB7-47C8-AFC4-AB702511C276}
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Information	15/12/2015 14:13:34	Service Control Manager	7040	None	The start type of the Windows Biometric Service service was changed from demand start to auto start.
+Information	15/12/2015 14:12:49	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\defaultuser0\AppData\Local\Packages\Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information	15/12/2015 14:12:46	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\defaultuser0\AppData\Local\Packages\Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy\Microsoft.Windows.CloudExperienceHost_10.0.10586.0_neutral_neutral_cw5n1h2txyewy\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:12:45	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\defaultuser0\AppData\Local\Packages\Microsoft.BioEnrollment_cw5n1h2txyewy\Microsoft.BioEnrollment_10.0.10586.0_neutral__cw5n1h2txyewy\ActivationStore\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:12:35	Microsoft-Windows-WindowsUpdateClient	19	Windows Update Agent	Installation Successful: Windows successfully installed the following update: Update for Windows 10 Version 1511 for x64-based Systems (KB3116278)
+Information	15/12/2015 14:12:28	Microsoft-Windows-GroupPolicy	1501	None	The Group Policy settings for the user were processed successfully. There were no changes detected since the last successful processing of Group Policy.
+Information	15/12/2015 14:12:26	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	15/12/2015 14:12:26	Service Control Manager	7040	None	The start type of the Windows Modules Installer service was changed from auto start to demand start.
+Information	15/12/2015 14:12:26	Microsoft-Windows-GroupPolicy	1500	None	The Group Policy settings for the computer were processed successfully. There were no changes detected since the last successful processing of Group Policy.
+Information	15/12/2015 14:12:24	Microsoft-Windows-TerminalServices-RemoteConnectionManager	1056	None	A new self signed certificate to be used for RD Session Host Server authentication on SSL connections was generated. The name on this certificate is DESKTOP-A5MB3PB. The SHA1 hash of the certificate is in the event data.
+Information	15/12/2015 14:12:22	Service Control Manager	7026	None	"The following boot-start or system-start driver(s) did not load: 
+dam"
+Information	15/12/2015 14:12:21	Microsoft-Windows-DHCPv6-Client	51046	Service State Event	DHCPv6 client service is started
+Information	15/12/2015 14:12:21	Microsoft-Windows-Dhcp-Client	50036	Service State Event	DHCPv4 client service is started
+Information	15/12/2015 14:12:21	Lfsvc	1	None	Geolocation positioning is enabled.
+Information	15/12/2015 14:12:20	Microsoft-Windows-Kernel-General	1	None	"The system time has changed to ‎2015‎-‎12‎-‎15T14:12:20.769000000Z from ‎2015‎-‎12‎-‎15T14:12:20.259150200Z.
+
+Change Reason: An application or system component changed the time."
+Information	15/12/2015 14:12:20	Microsoft-Windows-FilterManager	6	None	File System Filter 'storqosflt' (10.0, ‎2015‎-‎10‎-‎30T02:37:39.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	15/12/2015 14:12:20	Microsoft-Windows-FilterManager	6	None	File System Filter 'luafv' (10.0, ‎2015‎-‎10‎-‎30T02:34:43.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	15/12/2015 14:12:15	Microsoft-Windows-Wininit	14	None	Credential Guard (LsaIso.exe) configuration: 0x0, 0
+Information	15/12/2015 14:12:15	Microsoft-Windows-Hyper-V-Netvsc	11	(1003)	Miniport NIC 'Microsoft Hyper-V Network Adapter' restarted
+Information	15/12/2015 14:12:14	Microsoft-Windows-Hyper-V-Netvsc	3	(1002)	The miniport 'Microsoft Hyper-V Network Adapter' was successfully initialized
+Information	15/12/2015 14:12:14	Microsoft-Windows-Hyper-V-Netvsc	12	(1003)	Miniport NIC 'Microsoft Hyper-V Network Adapter' connected
+Information	15/12/2015 14:12:14	Microsoft-Windows-Hyper-V-Netvsc	13	(1003)	Miniport NIC 'Microsoft Hyper-V Network Adapter' disconnected
+Information	15/12/2015 14:12:14	Microsoft-Windows-Hyper-V-Netvsc	1	(1001)	The VM and host networking components successfully negotiated protocol version '6.1'
+Information	15/12/2015 14:12:14	Microsoft-Windows-Kernel-Processor-Power	55	(47)	"Processor 0 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 2295
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information	15/12/2015 14:12:14	Microsoft-Windows-Ntfs	98	None	Volume \\?\Volume{6b1cc1df-0000-0000-0000-100000000000} (\Device\HarddiskVolume1) is healthy.  No action is needed.
+Information	15/12/2015 14:12:14	Microsoft-Windows-FilterManager	6	None	File System Filter 'npsvctrig' (10.0, ‎2015‎-‎10‎-‎30T02:40:23.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	15/12/2015 14:12:14	Microsoft-Windows-FilterManager	6	None	File System Filter 'FileCrypt' (10.0, ‎2015‎-‎10‎-‎30T02:37:49.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	15/12/2015 14:12:13	Microsoft-Windows-Ntfs	98	None	Volume C: (\Device\HarddiskVolume2) is healthy.  No action is needed.
+Information	15/12/2015 14:12:13	Microsoft-Windows-FilterManager	6	None	File System Filter 'WdFilter' (10.0, ‎2015‎-‎10‎-‎30T02:34:35.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	15/12/2015 14:12:13	Microsoft-Windows-FilterManager	6	None	File System Filter 'Wof' (10.0, ‎2015‎-‎10‎-‎30T02:38:16.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	15/12/2015 14:12:13	Microsoft-Windows-FilterManager	6	None	File System Filter 'FileInfo' (10.0, ‎2015‎-‎10‎-‎30T02:37:17.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	15/12/2015 14:12:13	Microsoft-Windows-Kernel-Boot	32	None	The bootmgr spent 0 ms waiting for user input.
+Information	15/12/2015 14:12:13	Microsoft-Windows-Kernel-Boot	18	None	There are 0x1 boot options on this system.
+Information	15/12/2015 14:12:13	Microsoft-Windows-Kernel-Boot	25	None	The boot menu policy was 0x1.
+Information	15/12/2015 14:12:13	Microsoft-Windows-Kernel-Boot	27	None	The boot type was 0x0.
+Information	15/12/2015 14:12:13	Microsoft-Windows-Kernel-Boot	20	None	The last shutdown's success status was true. The last boot's success status was true.
+Information	15/12/2015 14:12:13	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2015‎-‎12‎-‎15T14:12:13.485176200Z.
+Information	15/12/2015 14:12:06	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2015‎-‎12‎-‎15T14:12:06.055637200Z.
+Information	15/12/2015 14:12:04	Microsoft-Windows-Kernel-Power	109	(103)	"The kernel power manager has initiated a shutdown transition.
+
+Shutdown Reason: Kernel API"
+Information	15/12/2015 14:12:02	Microsoft-Windows-Dhcp-Client	50037	Service State Event	DHCPv4 client service is stopped. ShutDown Flag value is 1
+Information	15/12/2015 14:12:20	EventLog	6013	None	The system uptime is 6 seconds.
+Information	15/12/2015 14:12:20	EventLog	6005	None	The Event log service was started.
+Information	15/12/2015 14:12:20	EventLog	6009	None	Microsoft (R) Windows (R) 10.00. 10586  Multiprocessor Free.
+Information	15/12/2015 14:12:01	Microsoft-Windows-DHCPv6-Client	51047	Service State Event	DHCPv6 client service is stopped. ShutDown Flag value is 1
+Information	15/12/2015 14:12:01	EventLog	6006	None	The Event log service was stopped.
+Information	15/12/2015 14:11:58	Microsoft-Windows-TPM-WMI	1282	None	The TBS device identifier has been generated.
+Information	15/12/2015 14:11:58	User32	1074	None	"The process C:\Windows\system32\winlogon.exe (WIN-RM5AP66IAF5) has initiated the restart of computer DESKTOP-A5MB3PB on behalf of user NT AUTHORITY\SYSTEM for the following reason: Operating System: Upgrade (Planned)
+ Reason Code: 0x80020003
+ Shutdown Type: restart
+ Comment: "
+Information	15/12/2015 14:11:57	Microsoft-Windows-WindowsUpdateClient	43	Windows Update Agent	Installation Started: Windows has started installing the following update: Update for Windows 10 Version 1511 for x64-based Systems (KB3116278)
+Information	15/12/2015 14:11:52	Service Control Manager	7040	None	The start type of the Windows Modules Installer service was changed from demand start to auto start.
+Information	15/12/2015 14:11:52	Microsoft-Windows-WindowsUpdateClient	44	Windows Update Agent	Windows Update started downloading an update.
+Information	15/12/2015 14:11:44	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Windows\system32\Config\Elam was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:11:34	Microsoft-Windows-Kernel-General	1	None	"The system time has changed to ‎2015‎-‎12‎-‎15T14:11:34.811000000Z from ‎2015‎-‎12‎-‎15T14:11:34.824112200Z.
+
+Change Reason: An application or system component changed the time."
+Information	15/12/2015 14:11:30	Service Control Manager	7040	None	The start type of the Windows Modules Installer service was changed from auto start to demand start.
+Information	15/12/2015 14:11:07	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Windows\System32\SMI\Store\Machine\SCHEMA.DAT was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:11:06	Service Control Manager	7040	None	The start type of the Windows Modules Installer service was changed from demand start to auto start.
+Information	15/12/2015 14:11:05	Service Control Manager	7040	None	The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Error	15/12/2015 14:10:54	Service Control Manager	7030	None	The Printer Extensions and Notifications service is marked as an interactive service.  However, the system is configured to not allow interactive services.  This service may not function properly.
+Information	15/12/2015 14:10:54	Service Control Manager	7045	None	"A service was installed in the system.
+
+Service Name:  Printer Extensions and Notifications
+Service File Name:  %SystemRoot%\system32\svchost.exe -k print
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  LocalSystem"
+Information	15/12/2015 14:10:50	Microsoft-Windows-UserPnp	20001	(7005)	Driver Management concluded the process to install driver printqueue.inf_amd64_191f5ed03722356c\printqueue.inf for Device Instance ID SWD\PRINTENUM\PRINTQUEUES with the following status: 0x0.
+Information	15/12/2015 14:10:49	Microsoft-Windows-Kernel-General	1	None	"The system time has changed to ‎2015‎-‎12‎-‎15T14:10:49.842878000Z from ‎2015‎-‎12‎-‎15T14:10:49.842878000Z.
+
+Change Reason: System time adjusted to the new time zone."
+Information	15/12/2015 14:10:48	Microsoft-Windows-TPM-WMI	1281	None	This event triggers the TBS device identifier generation.
+Information	15/12/2015 14:10:48	Service Control Manager	7040	None	The start type of the Windows Modules Installer service was changed from auto start to demand start.
+Information	15/12/2015 14:10:47	Microsoft-Windows-UserPnp	20001	(7005)	Driver Management concluded the process to install driver nettun.inf_amd64_d43a855a82d8f170\nettun.inf for Device Instance ID SWD\IP_TUNNEL_VBUS\TEREDO_TUNNEL_DEVICE with the following status: 0x0.
+Information	15/12/2015 14:10:45	Microsoft-Windows-UserPnp	20001	(7005)	Driver Management concluded the process to install driver nettun.inf_amd64_d43a855a82d8f170\nettun.inf for Device Instance ID SWD\IP_TUNNEL_VBUS\ISATAP_0 with the following status: 0x0.
+Information	15/12/2015 14:10:45	Microsoft-Windows-Time-Service	35	None	The time service is now synchronizing the system time with the time source VM IC Time Synchronization Provider.
+Information	15/12/2015 14:10:45	Service Control Manager	7045	None	"A service was installed in the system.
+
+Service Name:  Microsoft Tunnel Miniport Adapter Driver
+Service File Name:  \SystemRoot\System32\drivers\tunnel.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+Information	15/12/2015 14:10:44	Service Control Manager	7026	None	"The following boot-start or system-start driver(s) did not load: 
+dam"
+Information	15/12/2015 14:10:39	Lfsvc	1	None	Geolocation positioning is enabled.
+Information	15/12/2015 14:10:37	Microsoft-Windows-Time-Service	37	None	The time provider NtpClient is currently receiving valid time data from time.windows.com,0x9 (ntp.m|0x9|0.0.0.0:123->23.99.222.162:123).
+Information	15/12/2015 14:10:36	Microsoft-Windows-FilterManager	6	None	File System Filter 'storqosflt' (10.0, ‎2015‎-‎10‎-‎30T02:37:39.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	15/12/2015 14:10:35	Microsoft-Windows-Kernel-General	1	None	"The system time has changed to ‎2015‎-‎12‎-‎15T14:10:35.571000000Z from ‎2015‎-‎12‎-‎15T14:10:35.914548700Z.
+
+Change Reason: An application or system component changed the time."
+Information	15/12/2015 14:10:34	Microsoft-Windows-FilterManager	6	None	File System Filter 'luafv' (10.0, ‎2015‎-‎10‎-‎30T02:34:43.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	15/12/2015 14:10:33	Microsoft-Windows-Kernel-General	16	None	The access history in hive \SystemRoot\System32\Config\BBI was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:10:33	Microsoft-Windows-DHCPv6-Client	51046	Service State Event	DHCPv6 client service is started
+Information	15/12/2015 14:10:33	Microsoft-Windows-Dhcp-Client	50036	Service State Event	DHCPv4 client service is started
+Information	15/12/2015 14:10:25	Microsoft-Windows-Wininit	14	None	Credential Guard (LsaIso.exe) configuration: 0x0, 0
+Information	15/12/2015 14:10:24	Microsoft-Windows-Hyper-V-Netvsc	11	(1003)	Miniport NIC 'Microsoft Hyper-V Network Adapter' restarted
+Information	15/12/2015 14:10:24	Microsoft-Windows-Hyper-V-Netvsc	3	(1002)	The miniport 'Microsoft Hyper-V Network Adapter' was successfully initialized
+Information	15/12/2015 14:10:24	Microsoft-Windows-Hyper-V-Netvsc	12	(1003)	Miniport NIC 'Microsoft Hyper-V Network Adapter' connected
+Information	15/12/2015 14:10:24	Microsoft-Windows-Hyper-V-Netvsc	13	(1003)	Miniport NIC 'Microsoft Hyper-V Network Adapter' disconnected
+Information	15/12/2015 14:10:24	Microsoft-Windows-Hyper-V-Netvsc	1	(1001)	The VM and host networking components successfully negotiated protocol version '6.1'
+Information	15/12/2015 14:10:24	Microsoft-Windows-Kernel-Processor-Power	55	(47)	"Processor 0 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 2295
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information	15/12/2015 14:10:24	Microsoft-Windows-Ntfs	98	None	Volume \\?\Volume{6b1cc1df-0000-0000-0000-100000000000} (\Device\HarddiskVolume1) is healthy.  No action is needed.
+Information	15/12/2015 14:10:24	Microsoft-Windows-FilterManager	6	None	File System Filter 'npsvctrig' (10.0, ‎2015‎-‎10‎-‎30T02:40:23.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	15/12/2015 14:10:24	Microsoft-Windows-FilterManager	6	None	File System Filter 'FileCrypt' (10.0, ‎2015‎-‎10‎-‎30T02:37:49.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	15/12/2015 14:10:23	Microsoft-Windows-Ntfs	98	None	Volume C: (\Device\HarddiskVolume2) is healthy.  No action is needed.
+Information	15/12/2015 14:10:23	Microsoft-Windows-FilterManager	6	None	File System Filter 'WdFilter' (10.0, ‎2015‎-‎10‎-‎30T02:34:35.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	15/12/2015 14:10:23	Microsoft-Windows-FilterManager	6	None	File System Filter 'Wof' (10.0, ‎2015‎-‎10‎-‎30T02:38:16.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	15/12/2015 14:10:23	Microsoft-Windows-FilterManager	6	None	File System Filter 'FileInfo' (10.0, ‎2015‎-‎10‎-‎30T02:37:17.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	15/12/2015 14:10:23	Microsoft-Windows-Kernel-Boot	32	None	The bootmgr spent 0 ms waiting for user input.
+Information	15/12/2015 14:10:23	Microsoft-Windows-Kernel-Boot	18	None	There are 0x1 boot options on this system.
+Information	15/12/2015 14:10:23	Microsoft-Windows-Kernel-Boot	25	None	The boot menu policy was 0x1.
+Information	15/12/2015 14:10:23	Microsoft-Windows-Kernel-Boot	27	None	The boot type was 0x0.
+Information	15/12/2015 14:10:23	Microsoft-Windows-Kernel-Boot	20	None	The last shutdown's success status was true. The last boot's success status was true.
+Information	15/12/2015 14:10:23	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2015‎-‎12‎-‎15T14:10:23.484908100Z.
+Information	15/12/2015 14:10:15	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2015‎-‎12‎-‎15T14:10:15.010309400Z.
+Information	15/12/2015 14:10:14	Microsoft-Windows-Kernel-Power	109	(103)	"The kernel power manager has initiated a shutdown transition.
+
+Shutdown Reason: Kernel API"
+Information	15/12/2015 14:10:32	EventLog	6013	None	The system uptime is 9 seconds.
+Information	15/12/2015 14:10:32	EventLog	6005	None	The Event log service was started.
+Information	15/12/2015 14:10:32	EventLog	6009	None	Microsoft (R) Windows (R) 10.00. 10586  Multiprocessor Free.
+Information	15/12/2015 14:10:32	EventLog	6011	None	The NetBIOS name and DNS host name of this machine have been changed from WIN-RM5AP66IAF5 to DESKTOP-A5MB3PB.
+Information	15/12/2015 14:10:13	Microsoft-Windows-Dhcp-Client	50037	Service State Event	DHCPv4 client service is stopped. ShutDown Flag value is 1
+Information	15/12/2015 14:10:13	User32	1074	None	"The process C:\Windows\system32\winlogon.exe (MINWINPC) has initiated the restart of computer WIN-RM5AP66IAF5 on behalf of user NT AUTHORITY\SYSTEM for the following reason: Operating System: Upgrade (Planned)
+ Reason Code: 0x80020003
+ Shutdown Type: restart
+ Comment: "
+Information	15/12/2015 14:10:13	Microsoft-Windows-Setup	2004	OS information	Successfully logged OS information
+Information	15/12/2015 14:10:13	Microsoft-Windows-Setup	2003	Setup information	Successfully logged Setup information
+Information	15/12/2015 14:10:13	EventLog	6006	None	The Event log service was stopped.
+Information	15/12/2015 14:10:11	Microsoft-Windows-Kernel-General	15	None	Hive \??\C:\Windows\System32\config\COMPONENTS was reorganized with a starting size of 29421568 bytes and an ending size of 29421568 bytes.
+Information	15/12/2015 14:10:10	Microsoft-Windows-UserModePowerService	22	(18)	Reapply power settings upon completion of the provisioning engine's turn 1
+Information	15/12/2015 14:09:21	Microsoft-Windows-UserPnp	20001	(7005)	Driver Management concluded the process to install driver wvmbusvideo.inf_amd64_f01ff90fd4912045\wvmbusvideo.inf for Device Instance ID VMBUS\{DA0A7802-E377-4AAC-8E77-0558EB1073F8}\{5620E0C7-8062-4DCE-AEB7-520C7EF76171} with the following status: 0x0.
+Information	15/12/2015 14:09:21	Microsoft-Windows-UserPnp	20003	(7005)	Driver Management has concluded the process to add Service HyperVideo for Device Instance ID VMBUS\{DA0A7802-E377-4AAC-8E77-0558EB1073F8}\{5620E0C7-8062-4DCE-AEB7-520C7EF76171} with the following status: 0.
+Information	15/12/2015 14:09:21	Service Control Manager	7045	None	"A service was installed in the system.
+
+Service Name:  HyperVideo
+Service File Name:  \SystemRoot\system32\DRIVERS\HyperVideo.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+Information	15/12/2015 14:09:20	Microsoft-Windows-UserPnp	20001	(7005)	Driver Management concluded the process to install driver kdnic.inf_amd64_d13e686dd7c6124c\kdnic.inf for Device Instance ID ROOT\KDNIC\0000 with the following status: 0x0.
+Information	15/12/2015 14:09:20	Service Control Manager	7045	None	"A service was installed in the system.
+
+Service Name:  Microsoft Kernel Debug Network Miniport (NDIS 6.20)
+Service File Name:  \SystemRoot\System32\drivers\kdnic.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+Information	15/12/2015 14:09:20	Microsoft-Windows-UserPnp	20001	(7005)	Driver Management concluded the process to install driver wnetvsc.inf_amd64_41cbd016cdae672f\wnetvsc.inf for Device Instance ID VMBUS\{F8615163-DF3E-46C5-913F-F2D2F965ED0E}\{699C2E4B-0584-424A-AE6A-66B267149EF9} with the following status: 0x0.
+Information	15/12/2015 14:09:20	Service Control Manager	7045	None	"A service was installed in the system.
+
+Service Name:  netvsc
+Service File Name:  \SystemRoot\System32\drivers\netvsc.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+Information	15/12/2015 14:09:20	Microsoft-Windows-UserPnp	20001	(7005)	Driver Management concluded the process to install driver msports.inf_amd64_007443fa234201e7\msports.inf for Device Instance ID ACPI\PNP0501\2 with the following status: 0x0.
+Information	15/12/2015 14:09:20	Serial	2	None	While validating that \Device\Serial3 was really a serial port, a fifo was detected. The fifo will be used.
+Information	15/12/2015 14:09:20	Microsoft-Windows-UserPnp	20003	(7005)	Driver Management has concluded the process to add Service Serenum for Device Instance ID ACPI\PNP0501\2 with the following status: 0.
+Information	15/12/2015 14:09:20	Microsoft-Windows-UserPnp	20003	(7005)	Driver Management has concluded the process to add Service Serial for Device Instance ID ACPI\PNP0501\2 with the following status: 0.
+Information	15/12/2015 14:09:20	Microsoft-Windows-UserPnp	20001	(7005)	Driver Management concluded the process to install driver msports.inf_amd64_007443fa234201e7\msports.inf for Device Instance ID ACPI\PNP0501\1 with the following status: 0x0.
+Information	15/12/2015 14:09:20	Serial	2	None	While validating that \Device\Serial2 was really a serial port, a fifo was detected. The fifo will be used.
+Information	15/12/2015 14:09:20	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Users\Default\NTUSER.dat was cleared updating 546 keys and creating 32 modified pages.
+Information	15/12/2015 14:09:20	Microsoft-Windows-UserPnp	20003	(7005)	Driver Management has concluded the process to add Service Serenum for Device Instance ID ACPI\PNP0501\1 with the following status: 0.
+Information	15/12/2015 14:09:20	Microsoft-Windows-UserPnp	20003	(7005)	Driver Management has concluded the process to add Service Serial for Device Instance ID ACPI\PNP0501\1 with the following status: 0.
+Information	15/12/2015 14:09:17	EventLog	6011	None	The NetBIOS name and DNS host name of this machine have been changed from MINWINPC to WIN-RM5AP66IAF5.
+Error	15/12/2015 14:09:12	Service Control Manager	7023	None	"The Network List Service service terminated with the following error: 
+The device is not ready."
+Information	15/12/2015 14:09:12	Microsoft-Windows-DHCPv6-Client	51046	Service State Event	DHCPv6 client service is started
+Information	15/12/2015 14:09:12	Microsoft-Windows-Dhcp-Client	50036	Service State Event	DHCPv4 client service is started
+Information	15/12/2015 14:09:12	Service Control Manager	7026	None	"The following boot-start or system-start driver(s) did not load: 
+CSC
+dam"
+Information	15/12/2015 14:09:12	Lfsvc	1	None	Geolocation positioning is enabled.
+Information	15/12/2015 14:09:11	Microsoft-Windows-Kernel-General	1	None	"The system time has changed to ‎2015‎-‎12‎-‎15T14:09:11.578000000Z from ‎2015‎-‎12‎-‎15T14:09:10.860554900Z.
+
+Change Reason: An application or system component changed the time."
+Information	15/12/2015 14:09:10	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Windows\ServiceProfiles\LocalService\NTUSER.DAT was cleared updating 546 keys and creating 32 modified pages.
+Information	15/12/2015 14:09:09	Microsoft-Windows-Kernel-General	16	None	The access history in hive \??\C:\Windows\ServiceProfiles\NetworkService\NTUSER.DAT was cleared updating 546 keys and creating 32 modified pages.
+Information	15/12/2015 14:09:09	Microsoft-Windows-Kernel-General	16	None	The access history in hive \SystemRoot\System32\Config\SAM was cleared updating 1 keys and creating 1 modified pages.
+Information	15/12/2015 14:09:08	Microsoft-Windows-Kernel-General	16	None	The access history in hive \SystemRoot\System32\Config\SECURITY was cleared updating 1 keys and creating 1 modified pages.
+Information	15/12/2015 14:09:08	Microsoft-Windows-Wininit	14	None	Credential Guard (LsaIso.exe) configuration: 0x0, 0
+Information	15/12/2015 14:09:03	Microsoft-Windows-Kernel-General	16	None	The access history in hive \SystemRoot\System32\Config\DEFAULT was cleared updating 72 keys and creating 7 modified pages.
+Information	15/12/2015 14:09:03	Microsoft-Windows-Kernel-General	16	None	The access history in hive \SystemRoot\System32\Config\SOFTWARE was cleared updating 199405 keys and creating 11638 modified pages.
+Information	15/12/2015 14:09:03	Microsoft-Windows-Kernel-General	16	None	The access history in hive \Device\HarddiskVolume1\Boot\BCD was cleared updating 80 keys and creating 4 modified pages.
+Information	15/12/2015 14:09:03	Microsoft-Windows-Kernel-General	16	None	The access history in hive \SystemRoot\System32\config\DRIVERS was cleared updating 0 keys and creating 0 modified pages.
+Information	15/12/2015 14:09:03	Microsoft-Windows-Ntfs	98	None	Volume \\?\Volume{6b1cc1df-0000-0000-0000-100000000000} (\Device\HarddiskVolume1) is healthy.  No action is needed.
+Information	15/12/2015 14:09:03	Microsoft-Windows-Kernel-Processor-Power	55	(47)	"Processor 0 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 2295
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information	15/12/2015 14:09:02	Serial	2	None	While validating that \Device\Serial1 was really a serial port, a fifo was detected. The fifo will be used.
+Information	15/12/2015 14:09:02	Serial	2	None	While validating that \Device\Serial0 was really a serial port, a fifo was detected. The fifo will be used.
+Information	15/12/2015 14:09:02	Microsoft-Windows-FilterManager	6	None	File System Filter 'npsvctrig' (10.0, ‎2015‎-‎10‎-‎30T02:40:23.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	15/12/2015 14:09:02	Microsoft-Windows-FilterManager	6	None	File System Filter 'FileCrypt' (10.0, ‎2015‎-‎10‎-‎30T02:37:49.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	15/12/2015 14:09:01	Microsoft-Windows-Ntfs	98	None	Volume C: (\Device\HarddiskVolume2) is healthy.  No action is needed.
+Information	15/12/2015 14:09:00	Microsoft-Windows-FilterManager	6	None	File System Filter 'WdFilter' (10.0, ‎2015‎-‎10‎-‎30T02:34:35.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	15/12/2015 14:09:00	Microsoft-Windows-FilterManager	6	None	File System Filter 'Wof' (10.0, ‎2015‎-‎10‎-‎30T02:38:16.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	15/12/2015 14:09:00	Microsoft-Windows-FilterManager	6	None	File System Filter 'FileInfo' (10.0, ‎2015‎-‎10‎-‎30T02:37:17.000000000Z) has successfully loaded and registered with Filter Manager.
+Information	15/12/2015 14:09:00	Microsoft-Windows-Kernel-Boot	32	None	The bootmgr spent 0 ms waiting for user input.
+Information	15/12/2015 14:09:00	Microsoft-Windows-Kernel-Boot	18	None	There are 0x1 boot options on this system.
+Information	15/12/2015 14:09:00	Microsoft-Windows-Kernel-Boot	25	None	The boot menu policy was 0x1.
+Information	15/12/2015 14:09:00	Microsoft-Windows-Kernel-Boot	27	None	The boot type was 0x0.
+Information	15/12/2015 14:09:00	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2015‎-‎12‎-‎15T14:09:00.490435400Z.
+Information	15/12/2015 14:09:10	EventLog	6005	None	The Event log service was started.
+Information	15/12/2015 14:09:10	EventLog	6009	None	Microsoft (R) Windows (R) 10.00. 10586  Multiprocessor Free.

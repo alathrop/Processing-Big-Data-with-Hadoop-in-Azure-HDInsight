@@ -1,0 +1,23 @@
+-- Load the source data
+Source = LOAD '/data/traffic.csv' USING PigStorage(',') AS (year:int, collection_point:int, start:chararray, end:chararray, distance:float, cycles:float, motorbikes:float, cars:float, vans:float, trucks:float);
+
+-- filter the data to remove header row
+Data = FILTER Source BY year IS NOT NULL;
+
+-- Display data
+DUMP Data;
+
+-- Group by year
+YearGroups = GROUP Data BY year;
+
+-- Display groups
+DUMP YearGroups;
+
+-- Aggregate cars
+YearlyCars = FOREACH YearGroups GENERATE group as year, SUM(Data.cars) AS totalcars;
+
+-- Sort by year
+SortedYearlyCars = ORDER YearlyCars BY year;
+
+-- Display results
+DUMP SortedYearlyCars;

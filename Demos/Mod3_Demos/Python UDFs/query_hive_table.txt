@@ -1,0 +1,6 @@
+add file wasb:///data/total_freight.py;
+
+SELECT TRANSFORM (year, miles, vans, trucks)
+USING 'python total_freight.py'
+AS (year INT, miles FLOAT, total_freight FLOAT)
+FROM freight;

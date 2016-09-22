@@ -1,0 +1,9 @@
+DROP TABLE IF EXISTS freight;
+
+CREATE EXTERNAL TABLE freight
+(year INT,
+ miles FLOAT,
+ vans FLOAT,
+ trucks FLOAT)
+ROW FORMAT DELIMITED FIELDS TERMINATED BY '\t'
+STORED AS TEXTFILE LOCATION '/data/freight_miles';
